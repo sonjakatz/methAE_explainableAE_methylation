@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,128,99.078,0.0
+Age,17,4.981,0.0
+Ageing,14,3.119,0.0
+IL2RB protein levels (SeqId = 9343-16),6,0.86,0.001
+Liver fat,4,0.42,0.001
+GZMK protein levels (SeqId = 9545-156),3,0.501,0.016
+age*sex,3,0.867,0.04
+HIV infection,11,6.575,0.052
+Sex,14,16.434,0.694
+sex,17,19.515,0.811

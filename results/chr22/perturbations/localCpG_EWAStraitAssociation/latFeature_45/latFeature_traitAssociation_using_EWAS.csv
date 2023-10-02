@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),2,0.075,0.001
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),3,0.561,0.016
+Sex,21,12.268,0.039
+DES protein levels (SeqId = 12030-82),1,0.046,0.046
+LY75 protein levels (SeqId = 16620-26),1,0.059,0.059
+Gene expression of Affymetrix ID: 3962530 (gene symbol: CYB5R3),1,0.105,0.104
+sex,15,14.368,0.479
+HIV infection,2,4.572,0.954
+Age,1,4.569,0.988
+age,67,84.319,0.999

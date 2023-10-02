@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+TNFRSF21 protein levels (SeqId = 5404-53),1,0.006,0.006
+RAMP3 protein levels (SeqId = 15437-11),1,0.008,0.008
+Crohn's disease,6,1.303,0.009
+PAPPA protein levels (SeqId = 4148-49),2,0.187,0.012
+Age,5,3.388,0.268
+HIV infection,5,3.899,0.356
+age,66,66.021,0.514
+Sex,6,6.965,0.617
+Primary Sjogrens syndrome,2,2.197,0.652
+sex,4,7.202,0.953

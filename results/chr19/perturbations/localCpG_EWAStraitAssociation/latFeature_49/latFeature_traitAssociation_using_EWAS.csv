@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,39,4.873,0.0
+M00054_tryptophan,8,0.63,0.0
+Body mass index,8,1.589,0.021
+age,230,208.696,0.04
+Smoking,17,6.253,0.06
+Ageing,8,4.446,0.075
+Age,15,10.817,0.149
+Sex,17,28.123,0.951
+sex,18,26.08,0.974
+HIV infection,9,15.012,0.974

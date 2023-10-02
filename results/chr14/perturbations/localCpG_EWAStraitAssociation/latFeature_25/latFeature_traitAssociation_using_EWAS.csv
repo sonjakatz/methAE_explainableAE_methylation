@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,256,204.808,0.0
+IL2RB protein levels (SeqId = 9343-16),8,1.042,0.0
+HIV infection,22,11.031,0.001
+Ageing,12,4.605,0.004
+GZMK protein levels (SeqId = 9545-156),5,1.309,0.013
+Rheumatoid arthritis,8,6.044,0.258
+Age,9,9.37,0.579
+Primary Sjogrens syndrome,7,10.255,0.902
+sex,10,22.975,1.0
+Sex,4,19.717,1.0

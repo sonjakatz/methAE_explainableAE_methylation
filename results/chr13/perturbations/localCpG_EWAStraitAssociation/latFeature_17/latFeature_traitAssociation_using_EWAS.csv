@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+IL2RB protein levels (SeqId = 9343-16),4,1.158,0.021
+Ageing,9,4.713,0.051
+Crohn's disease,7,4.172,0.124
+Smoking,9,5.677,0.227
+Papuan ancestry,4,2.593,0.252
+Age,11,11.049,0.527
+HIV infection,8,10.362,0.837
+age,173,186.736,0.916
+sex,15,26.983,1.0
+Sex,5,22.365,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3924674 (gene symbol: DIP2A),5,0.994,0.0
+Gene expression of Affymetrix ID: 3924783 (gene symbol: PRMT2),6,1.902,0.005
+Sex,16,9.333,0.039
+Inflammatory bowel disease,7,3.438,0.043
+Papuan ancestry,5,2.436,0.09
+Alcohol consumption,2,1.025,0.349
+Age,3,3.122,0.591
+sex,9,10.873,0.808
+HIV infection,2,4.409,0.957
+age,73,83.856,0.965

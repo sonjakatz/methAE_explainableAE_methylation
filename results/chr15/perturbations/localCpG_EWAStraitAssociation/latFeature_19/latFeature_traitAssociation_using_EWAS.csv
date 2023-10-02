@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Rheumatoid arthritis,7,2.767,0.015
+Ulcerative colitis,3,1.094,0.109
+age*sex,2,0.878,0.215
+sex,14,11.746,0.275
+Crohn's disease,3,1.843,0.287
+Ageing,3,2.102,0.339
+HIV infection,6,5.832,0.551
+Age,3,4.412,0.761
+age,87,91.72,0.767
+Sex,6,9.373,0.797

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,7,2.553,0.004
+Ulcerative colitis,5,1.607,0.016
+Gene expression of Affymetrix ID: 3924144 (gene symbol: COL18A1),2,0.513,0.088
+Inflammatory bowel disease,6,3.485,0.116
+Crohn's disease,4,2.005,0.13
+Schizophrenia,2,1.062,0.43
+age,84,83.804,0.525
+HIV infection,4,4.409,0.657
+sex,8,10.727,0.876
+Sex,2,9.254,0.997

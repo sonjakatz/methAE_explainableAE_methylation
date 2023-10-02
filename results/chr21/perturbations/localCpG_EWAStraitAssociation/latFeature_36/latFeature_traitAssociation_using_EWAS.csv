@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,3,1.081,0.082
+Maternal smoking during pregnancy,2,0.17,0.085
+Gene expression of Affymetrix ID: 3934245 (gene symbol: CSTB),1,0.088,0.088
+Head circumference,1,0.091,0.091
+sex,9,7.267,0.286
+age,56,56.658,0.6
+age*sex,1,0.994,0.651
+Inflammatory bowel disease,2,2.284,0.691
+Papuan ancestry,1,1.643,0.83
+Sex,4,6.127,0.839

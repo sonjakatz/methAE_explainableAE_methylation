@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Age,14,5.103,0.008
+Nitrogen dioxide exposure,4,1.269,0.041
+Body mass index,4,0.689,0.072
+Primary Sjogrens syndrome,9,5.169,0.078
+Crohn's disease,5,2.288,0.091
+Inflammatory bowel disease,3,1.5,0.19
+age,114,111.106,0.376
+HIV infection,6,7.275,0.758
+Sex,6,11.205,0.887
+sex,7,14.151,0.994

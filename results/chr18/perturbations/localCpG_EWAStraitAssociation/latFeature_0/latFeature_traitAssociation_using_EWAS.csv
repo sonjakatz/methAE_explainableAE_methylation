@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,3,0.783,0.043
+Schizophrenia,2,0.813,0.283
+CRISP2 protein levels (SeqId = 9282-12),2,1.444,0.439
+Alcohol consumption,3,2.631,0.468
+Crohn's disease,2,1.901,0.565
+age,65,68.775,0.752
+Age,2,3.564,0.816
+HIV infection,2,4.579,0.953
+Sex,3,11.582,0.997
+sex,7,13.779,0.999

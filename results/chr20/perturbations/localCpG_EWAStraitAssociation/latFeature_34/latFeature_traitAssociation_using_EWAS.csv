@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,26,10.086,0.0
+M00054_tryptophan,9,1.338,0.0
+Inflammatory bowel disease,11,6.519,0.049
+age,283,267.436,0.107
+Alcohol consumption,16,12.458,0.253
+Crohn's disease,14,11.522,0.261
+Age,18,17.824,0.519
+HIV infection,11,14.088,0.844
+Sex,24,47.32,0.998
+sex,23,42.933,1.0

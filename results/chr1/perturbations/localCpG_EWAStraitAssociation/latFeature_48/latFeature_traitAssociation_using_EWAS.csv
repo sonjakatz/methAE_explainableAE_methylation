@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,23,11.53,0.002
+sex,140,115.014,0.006
+age*sex,29,17.429,0.008
+Crohn's disease,29,18.13,0.014
+Smoking,53,32.936,0.073
+Alcohol consumption,55,45.045,0.174
+Sex,130,119.865,0.253
+Age,54,51.091,0.38
+HIV infection,33,42.31,0.954
+age,669,780.89,1.0

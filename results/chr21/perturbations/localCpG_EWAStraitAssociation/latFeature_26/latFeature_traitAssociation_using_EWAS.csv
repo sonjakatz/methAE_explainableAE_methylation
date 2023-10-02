@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,7,1.906,0.001
+MAPK8 protein levels (SeqId = 3825-18),1,0.108,0.108
+ABLIM3 protein levels (SeqId = 13578-98),1,0.108,0.108
+TRIM3 protein levels (SeqId = 12573-80),1,0.108,0.108
+ASMTL protein levels (SeqId = 10089-7),1,0.108,0.108
+Leisure time physical activity,1,0.115,0.115
+age,65,67.26,0.688
+HIV infection,3,3.607,0.727
+sex,5,8.726,0.959
+Sex,2,7.64,0.989

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,3,1.171,0.111
+Maternal smoking during pregnancy,4,1.304,0.122
+Ageing,4,3.667,0.494
+age,164,166.584,0.636
+Alcohol consumption,5,7.043,0.729
+HIV infection,8,10.893,0.872
+Age,4,7.733,0.921
+sex,16,21.177,0.939
+Sex,8,16.695,0.953
+Primary Sjogrens syndrome,3,7.761,0.988

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,21,7.916,0.0
+Crohn's disease,20,9.268,0.0
+Nitrogen dioxide exposure,7,2.838,0.017
+Inflammatory bowel disease,10,5.349,0.048
+Ulcerative colitis,7,3.589,0.057
+Smoking,12,7.09,0.164
+age,222,211.314,0.171
+Alcohol consumption,12,9.915,0.329
+Sex,23,36.812,0.969
+sex,25,33.788,0.976

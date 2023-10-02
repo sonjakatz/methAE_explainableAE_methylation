@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,387,337.87,0.0
+Sex,83,45.241,0.0
+Ageing,25,7.091,0.0
+age*sex,16,6.668,0.0
+Inflammatory bowel disease,9,4.502,0.045
+sex,45,42.307,0.33
+Smoking,12,10.128,0.347
+Alcohol consumption,15,14.176,0.437
+Age,16,17.436,0.663
+HIV infection,23,24.688,0.679

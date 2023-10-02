@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,26,7.518,0.0
+M00054_tryptophan,4,0.79,0.042
+Nitrogen dioxide exposure,4,1.811,0.095
+Schizophrenia,4,1.837,0.222
+Ageing,4,3.589,0.495
+Sex,16,16.781,0.56
+Alcohol consumption,6,6.819,0.592
+age,157,161.882,0.716
+Age,6,7.663,0.735
+sex,14,20.688,0.972

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+COL10A1 protein levels (SeqId = 15653-9),2,0.171,0.008
+CRISP2 protein levels (SeqId = 9282-12),5,1.609,0.017
+NAE1 protein levels (SeqId = 18177-49),1,0.069,0.069
+schizophrenia,2,0.3,0.143
+Crohn's disease,4,2.154,0.184
+Inflammatory bowel disease,2,1.137,0.324
+Sex,15,13.62,0.4
+sex,17,15.87,0.44
+age,79,81.149,0.655
+Primary Sjogrens syndrome,2,2.867,0.796

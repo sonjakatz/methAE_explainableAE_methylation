@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,8,3.136,0.01
+Alcohol consumption,20,13.931,0.151
+Alcohol consumption per day,7,4.438,0.151
+Smoking,13,9.939,0.257
+sex,41,39.526,0.423
+age,344,357.776,0.828
+HIV infection,17,21.023,0.861
+Primary Sjogrens syndrome,8,11.997,0.928
+Age,10,18.485,0.979
+Sex,22,38.311,0.99

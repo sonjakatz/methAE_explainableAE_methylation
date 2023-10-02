@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Perinatally acquired HIV,5,0.763,0.0
+Papuan ancestry,7,2.105,0.003
+Crohn's disease,14,6.314,0.007
+Ulcerative colitis,7,2.464,0.009
+age*sex,6,3.491,0.135
+age,146,145.127,0.479
+Alcohol consumption,6,6.728,0.58
+Sex,20,25.641,0.794
+sex,16,23.192,0.971
+HIV infection,4,7.807,0.972

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),5,0.867,0.0
+Sex,33,18.923,0.009
+GZMK protein levels (SeqId = 9545-156),5,1.587,0.01
+age,150,131.219,0.012
+sex,28,22.357,0.083
+Crohn's disease,3,2.114,0.353
+HIV infection,7,7.021,0.565
+Primary Sjogrens syndrome,3,4.275,0.821
+Alcohol consumption,3,6.894,0.88
+Age,4,7.255,0.928

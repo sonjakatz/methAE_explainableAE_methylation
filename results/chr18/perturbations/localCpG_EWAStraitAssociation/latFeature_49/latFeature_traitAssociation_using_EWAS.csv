@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,4,0.34,0.0
+CRISP2 protein levels (SeqId = 9282-12),6,1.81,0.005
+Inflammatory bowel disease,4,1.291,0.024
+sex,24,17.854,0.053
+Sex,23,15.148,0.061
+Sexual abuse,1,0.076,0.076
+Crohn's disease,5,2.446,0.103
+Papuan ancestry,2,1.059,0.285
+Ulcerative colitis,2,1.392,0.4
+age,83,90.001,0.866

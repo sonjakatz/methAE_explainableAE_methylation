@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,32,18.452,0.004
+Crohn's disease,7,2.858,0.024
+age*sex,3,0.943,0.051
+CRISP2 protein levels (SeqId = 9282-12),5,2.197,0.07
+sex,26,21.739,0.15
+Inflammatory bowel disease,3,1.497,0.178
+Alcohol consumption,5,4.304,0.437
+Smoking,2,2.12,0.511
+age,97,109.886,0.962
+HIV infection,3,7.287,0.985

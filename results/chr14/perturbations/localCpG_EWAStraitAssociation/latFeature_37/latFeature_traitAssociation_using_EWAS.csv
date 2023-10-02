@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3558145 (gene symbol: CIDEB),3,0.319,0.002
+Leukocyte telomere length,3,0.126,0.042
+Ulcerative colitis,3,1.58,0.21
+Crohn's disease,3,2.01,0.329
+Smoking,4,5.278,0.552
+Age,6,8.033,0.799
+Sex,12,16.913,0.815
+HIV infection,7,9.649,0.866
+age,160,174.1,0.931
+sex,10,19.607,0.999

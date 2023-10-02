@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+GZMK protein levels (SeqId = 9545-156),6,1.648,0.004
+IL2RB protein levels (SeqId = 9343-16),3,0.743,0.024
+Nitrogen dioxide exposure,4,1.279,0.033
+age,157,143.748,0.069
+Ageing,4,2.207,0.176
+Papuan ancestry,3,1.486,0.179
+age*sex,3,2.525,0.479
+Age,2,7.843,0.996
+Sex,9,20.699,0.998
+sex,9,24.729,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),7,2.286,0.005
+M01299_tyrosine,3,0.326,0.008
+Sex,25,18.722,0.132
+sex,26,22.427,0.194
+Inflammatory bowel disease,3,1.671,0.224
+age,117,113.04,0.322
+Papuan ancestry,2,1.339,0.39
+Primary Sjogrens syndrome,3,4.09,0.787
+HIV infection,6,7.549,0.791
+Age,3,5.651,0.891

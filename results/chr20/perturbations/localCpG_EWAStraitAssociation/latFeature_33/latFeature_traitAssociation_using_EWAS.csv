@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Perinatally acquired HIV,4,0.66,0.002
+sex,28,19.555,0.018
+Crohn's disease,10,5.197,0.035
+Ulcerative colitis,5,2.021,0.045
+Leukocyte telomere length,3,0.141,0.047
+age*sex,6,2.786,0.051
+Papuan ancestry,4,1.804,0.097
+Sex,28,21.362,0.178
+Inflammatory bowel disease,4,2.987,0.347
+age,113,122.104,0.881

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,18,6.15,0.0
+Rheumatoid arthritis,10,1.662,0.0
+PGK1 protein levels (SeqId = 5020-50),2,0.172,0.008
+Crohn's disease,5,2.498,0.114
+Schizophrenia,3,1.155,0.145
+Alcohol consumption,6,3.706,0.24
+Inflammatory bowel disease,2,1.325,0.393
+sex,13,18.518,0.975
+Sex,7,15.551,0.982
+age,74,93.581,0.999

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,26,6.4,0.0
+PCDHGA10 protein levels (SeqId = 6321-65),1,0.004,0.004
+sex,12,5.863,0.006
+GZMA protein levels (SeqId = 3440-7),2,0.191,0.017
+LY9 protein levels (SeqId = 3324-51),1,0.022,0.022
+Ageing,2,0.979,0.255
+Alcohol consumption per day,1,0.43,0.348
+age*sex,1,0.899,0.611
+HIV infection,2,3.471,0.876
+age,40,46.853,0.909

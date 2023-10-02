@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Nitrogen dioxide exposure,5,1.022,0.001
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),5,0.742,0.001
+Ageing,5,1.698,0.021
+Crohn's disease,5,1.865,0.026
+age*sex,5,1.958,0.04
+Sex,18,16.559,0.383
+Age,7,6.158,0.43
+age,115,113.411,0.437
+HIV infection,4,5.989,0.872
+sex,11,19.261,0.998

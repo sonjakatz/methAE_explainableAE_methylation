@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+RTN4R protein levels (SeqId = 5105-2),2,0.154,0.006
+Sex,25,16.373,0.041
+Crohn's disease,6,2.64,0.052
+age*sex,3,0.883,0.057
+Age,8,4.901,0.155
+Papuan ancestry,2,1.081,0.29
+Ulcerative colitis,2,1.497,0.436
+Inflammatory bowel disease,2,1.428,0.437
+age,93,97.427,0.75
+sex,13,19.281,0.985

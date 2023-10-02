@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+sex,52,36.479,0.0
+Crohn's disease,16,5.74,0.0
+CRISP2 protein levels (SeqId = 9282-12),15,3.025,0.0
+Ulcerative colitis,13,3.385,0.0
+Inflammatory bowel disease,10,4.211,0.004
+Ageing,12,6.38,0.014
+age*sex,7,3.544,0.06
+Sex,36,30.137,0.218
+Age,11,14.862,0.846
+age,216,252.309,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+GZMK protein levels (SeqId = 9545-156),3,0.376,0.002
+IL2RB protein levels (SeqId = 9343-16),4,0.712,0.006
+Body mass index,2,0.169,0.007
+Ageing,6,2.589,0.034
+age,92,83.272,0.117
+Smoking,5,1.7,0.119
+Age,8,4.306,0.125
+HIV infection,6,5.514,0.482
+Sex,6,13.948,0.981
+sex,10,16.443,0.987

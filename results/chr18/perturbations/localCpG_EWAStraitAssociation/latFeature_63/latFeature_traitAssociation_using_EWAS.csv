@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,5,1.212,0.004
+HIV infection,10,5.512,0.036
+Rheumatoid arthritis,4,1.499,0.059
+FCER2 protein levels (SeqId = 3291-30),1,0.075,0.075
+Schizophrenia,2,1.027,0.347
+Crohn's disease,3,2.187,0.362
+CRISP2 protein levels (SeqId = 9282-12),2,1.659,0.511
+Sex,8,13.725,0.934
+sex,11,16.238,0.974
+age,61,82.973,1.0

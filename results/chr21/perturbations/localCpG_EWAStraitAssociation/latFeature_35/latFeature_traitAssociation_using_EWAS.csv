@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,5,1.886,0.03
+Gene expression of Affymetrix ID: 3923257 (gene symbol: PDXK),1,0.104,0.104
+LY75 protein levels (SeqId = 16620-26),1,0.108,0.108
+FIG4 protein levels (SeqId = 6948-82),1,0.239,0.223
+Sex,6,7.346,0.703
+Primary Sjogrens syndrome,1,1.918,0.869
+Age,1,2.407,0.9
+age,58,65.417,0.92
+sex,5,8.525,0.965
+HIV infection,1,3.572,0.985

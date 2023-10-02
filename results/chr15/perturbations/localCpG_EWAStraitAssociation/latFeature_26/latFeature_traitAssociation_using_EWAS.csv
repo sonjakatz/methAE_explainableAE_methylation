@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,48,12.31,0.0
+M00054_tryptophan,10,1.274,0.0
+GZMK protein levels (SeqId = 9545-156),7,1.033,0.0
+Sex,44,26.748,0.02
+Smoking,19,6.858,0.047
+age,279,262.901,0.085
+HIV infection,18,17.124,0.441
+Alcohol consumption,7,10.848,0.817
+sex,29,33.415,0.843
+Age,8,12.33,0.877

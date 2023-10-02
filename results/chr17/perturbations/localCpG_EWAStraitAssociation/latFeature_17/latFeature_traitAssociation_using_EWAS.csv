@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,515,452.657,0.0
+Age,55,23.592,0.0
+Ageing,27,7.968,0.0
+Smoking,44,12.897,0.002
+Crohn's disease,17,8.614,0.013
+Body mass index,18,5.189,0.039
+Alcohol consumption,23,17.79,0.216
+HIV infection,18,26.454,0.977
+Sex,31,48.571,0.979
+sex,37,49.928,0.993

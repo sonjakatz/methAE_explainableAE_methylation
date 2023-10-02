@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3917204 (gene symbol: C21orf7),2,0.212,0.012
+Smoking,3,0.856,0.145
+Age,4,2.627,0.287
+age*sex,2,1.177,0.323
+Papuan ancestry,3,2.02,0.338
+Ulcerative colitis,2,1.365,0.409
+HIV infection,4,3.649,0.514
+age,67,68.949,0.661
+Sex,6,7.626,0.759
+sex,6,8.904,0.914

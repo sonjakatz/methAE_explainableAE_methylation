@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+GZMA protein levels (SeqId = 3440-7),8,2.081,0.0
+Ulcerative colitis,9,3.526,0.007
+CRISP2 protein levels (SeqId = 9282-12),8,3.099,0.007
+Inflammatory bowel disease,8,4.504,0.076
+sex,42,38.824,0.301
+Ageing,8,6.746,0.361
+Alcohol consumption,11,9.808,0.412
+age,258,268.857,0.812
+Sex,17,32.315,0.991
+HIV infection,7,14.782,0.996

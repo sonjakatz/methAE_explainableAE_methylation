@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,4,0.923,0.006
+Papuan ancestry,3,0.951,0.068
+Gene expression of Affymetrix ID: 3962587 (gene symbol: ARFGAP3),1,0.112,0.11
+Inflammatory bowel disease,2,1.092,0.297
+Alcohol consumption,6,4.434,0.323
+Sex,10,12.685,0.752
+HIV infection,3,4.622,0.865
+Age,2,4.816,0.945
+age,77,87.624,0.95
+sex,10,14.757,0.953

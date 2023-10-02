@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,499,401.179,0.0
+HIV infection,48,25.022,0.0
+Age,40,20.749,0.0
+Ageing,29,7.234,0.0
+GZMK protein levels (SeqId = 9545-156),19,2.493,0.0
+Rheumatoid arthritis,19,9.5,0.003
+Smoking,28,9.588,0.011
+Alcohol consumption,19,15.76,0.291
+Sex,32,46.044,0.949
+sex,23,44.891,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,83,41.051,0.0
+sex,65,40.268,0.0
+Ulcerative colitis,14,3.601,0.0
+Alcohol consumption per day,11,4.457,0.006
+Primary Sjogrens syndrome,15,12.021,0.229
+Age,21,18.714,0.351
+Alcohol consumption,16,14.341,0.398
+age,366,362.442,0.413
+Ageing,7,6.563,0.478
+HIV infection,10,22.747,1.0

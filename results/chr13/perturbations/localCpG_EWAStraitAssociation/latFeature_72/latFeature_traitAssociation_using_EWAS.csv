@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+MAP2K2 protein levels (SeqId = 3628-3),2,0.075,0.003
+Ulcerative colitis,6,1.553,0.005
+SERPINA10 protein levels (SeqId = 13119-26),2,0.116,0.007
+Gene expression of Affymetrix ID: 3503164 (gene symbol: CDC16),3,0.389,0.008
+Papuan ancestry,5,1.723,0.026
+Crohn's disease,3,2.605,0.482
+Sex,8,15.029,0.936
+HIV infection,3,6.929,0.98
+age,104,124.313,0.996
+sex,9,18.152,0.997

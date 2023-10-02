@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Maternal smoking in pregnancy,3,0.351,0.002
+Sex,17,8.89,0.016
+age*sex,4,1.364,0.041
+Trajectories of social communication deficits,1,0.132,0.132
+MAPK8 protein levels (SeqId = 3825-18),1,0.136,0.136
+sex,13,10.313,0.204
+Papuan ancestry,4,2.374,0.208
+Alcohol consumption per day,1,0.393,0.357
+age,83,80.264,0.363
+Alcohol consumption,2,1.094,0.368

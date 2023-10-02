@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,16,5.236,0.0
+Nitrogen dioxide exposure,3,2.473,0.456
+Schizophrenia,2,1.419,0.484
+Ulcerative colitis,2,1.624,0.488
+Sex,18,17.869,0.503
+HIV infection,10,9.818,0.542
+Crohn's disease,2,3.107,0.807
+Age,3,8.11,0.984
+sex,8,17.634,0.998
+age,123,157.106,1.0

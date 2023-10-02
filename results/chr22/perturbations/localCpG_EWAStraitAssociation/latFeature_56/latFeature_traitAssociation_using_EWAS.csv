@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),4,0.682,0.003
+Response to antidepressants,2,0.147,0.004
+Gene expression of Affymetrix ID: 3965102 (gene symbol: C22orf34),2,0.294,0.037
+Gene expression of Affymetrix ID: 3937847 (gene symbol: LZTR1),1,0.053,0.053
+Gene expression of Affymetrix ID: 3962587 (gene symbol: ARFGAP3),1,0.11,0.108
+Papuan ancestry,2,1.064,0.296
+sex,17,17.376,0.616
+Sex,13,14.555,0.644
+HIV infection,3,5.599,0.936
+age,75,102.348,1.0

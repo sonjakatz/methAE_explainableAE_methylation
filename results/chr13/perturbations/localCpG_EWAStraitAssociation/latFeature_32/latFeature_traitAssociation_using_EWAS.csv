@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+IL2RB protein levels (SeqId = 9343-16),5,1.569,0.013
+age,278,253.916,0.027
+Papuan ancestry,7,3.583,0.054
+Ageing,9,6.453,0.197
+HIV infection,17,14.042,0.206
+Alcohol consumption,13,9.532,0.234
+Age,17,15.152,0.374
+Inflammatory bowel disease,5,4.31,0.447
+Sex,24,30.44,0.838
+sex,24,36.716,0.997

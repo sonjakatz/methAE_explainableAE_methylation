@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,7,2.562,0.009
+COL6A1 protein levels (SeqId = 16828-8),1,0.26,0.242
+Schizophrenia,2,1.196,0.484
+HIV infection,5,4.806,0.541
+Ulcerative colitis,2,1.751,0.548
+Sex,9,9.969,0.647
+Crohn's disease,2,2.146,0.666
+Inflammatory bowel disease,3,3.708,0.753
+sex,7,11.579,0.974
+age,74,89.331,0.992

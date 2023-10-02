@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Crohn's disease,5,1.623,0.015
+Ulcerative colitis,4,1.32,0.038
+Leukocyte telomere length,4,0.388,0.097
+Cognitive abilities: digit test,1,0.106,0.106
+Inflammatory bowel disease,5,2.874,0.147
+FIG4 protein levels (SeqId = 6948-82),1,0.249,0.229
+sex,10,8.943,0.404
+Sex,8,7.765,0.517
+Rheumatoid arthritis,1,0.774,0.522
+age,58,69.237,0.978

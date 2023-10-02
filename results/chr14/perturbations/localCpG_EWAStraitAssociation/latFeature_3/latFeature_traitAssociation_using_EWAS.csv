@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,26,14.938,0.0
+M32388_dodecanedioate,10,1.131,0.0
+age,304,275.918,0.014
+Ageing,12,6.18,0.018
+Alcohol consumption,13,5.682,0.035
+Age,19,12.521,0.064
+Primary Sjogrens syndrome,18,13.663,0.127
+Smoking,9,8.523,0.441
+Sex,12,26.838,0.987
+sex,17,31.144,1.0

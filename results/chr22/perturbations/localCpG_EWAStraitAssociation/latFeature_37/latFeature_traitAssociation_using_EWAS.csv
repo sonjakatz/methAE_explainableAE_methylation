@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,4,1.262,0.036
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),3,0.809,0.048
+Crohn's disease,4,1.914,0.134
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),2,0.955,0.242
+Alcohol consumption per day,2,1.011,0.281
+Sex,18,17.514,0.488
+age*sex,2,2.083,0.627
+sex,19,20.702,0.719
+HIV infection,4,6.501,0.915
+age,100,122.226,0.998

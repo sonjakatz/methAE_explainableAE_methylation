@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+GZMA protein levels (SeqId = 3440-7),7,1.617,0.0
+Ageing,10,5.17,0.021
+Ulcerative colitis,6,2.702,0.047
+Papuan ancestry,6,2.998,0.076
+Inflammatory bowel disease,6,3.337,0.098
+Crohn's disease,6,4.526,0.312
+age,208,204.329,0.387
+sex,24,29.563,0.916
+Age,6,11.914,0.975
+Sex,9,24.203,0.999

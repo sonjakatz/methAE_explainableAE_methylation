@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),7,0.735,0.0
+Gene expression of Affymetrix ID: 3965102 (gene symbol: C22orf34),3,0.324,0.0
+Inflammatory bowel disease,3,1.414,0.16
+Crohn's disease,3,1.801,0.273
+Ulcerative colitis,2,1.195,0.342
+Age,6,6.02,0.542
+HIV infection,2,5.747,0.981
+sex,12,18.57,0.984
+age,91,109.412,0.995
+Sex,4,15.847,0.999

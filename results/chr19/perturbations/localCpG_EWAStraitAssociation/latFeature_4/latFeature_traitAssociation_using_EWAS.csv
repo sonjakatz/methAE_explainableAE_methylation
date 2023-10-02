@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,6,1.881,0.009
+Alcohol consumption per day,4,1.286,0.043
+Crohn's disease,5,2.813,0.152
+age*sex,5,2.983,0.184
+Alcohol consumption,9,6.234,0.25
+Sex,24,19.64,0.254
+Smoking,6,4.145,0.257
+sex,19,18.712,0.521
+age,144,149.512,0.722
+HIV infection,9,10.948,0.759

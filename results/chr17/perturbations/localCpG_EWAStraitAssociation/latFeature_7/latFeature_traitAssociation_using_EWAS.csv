@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Alcohol consumption,34,14.502,0.001
+age*sex,13,6.707,0.013
+Alcohol consumption per day,8,4.373,0.079
+HIV infection,26,21.183,0.158
+sex,46,40.207,0.18
+Sex,41,39.054,0.41
+Smoking,9,10.274,0.535
+age,356,365.191,0.753
+Rheumatoid arthritis,9,11.959,0.857
+Age,14,18.988,0.869

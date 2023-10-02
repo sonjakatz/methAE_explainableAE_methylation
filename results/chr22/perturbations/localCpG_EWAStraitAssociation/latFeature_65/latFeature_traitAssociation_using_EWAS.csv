@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),3,0.887,0.048
+Sex,28,19.004,0.057
+Alcohol consumption,11,6.706,0.161
+Papuan ancestry,3,1.414,0.162
+sex,26,22.634,0.226
+Age,9,7.177,0.295
+age,137,133.15,0.329
+Crohn's disease,3,2.156,0.369
+Primary Sjogrens syndrome,4,4.46,0.668
+HIV infection,4,7.198,0.942

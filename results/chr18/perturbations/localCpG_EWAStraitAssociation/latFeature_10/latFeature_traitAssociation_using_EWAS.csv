@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+COL10A1 protein levels (SeqId = 15653-9),2,0.181,0.003
+Inflammatory bowel disease,3,1.38,0.153
+Age,8,4.969,0.159
+Ulcerative colitis,3,1.513,0.178
+Primary Sjogrens syndrome,5,3.396,0.224
+age,98,97.705,0.51
+Rheumatoid arthritis,2,1.753,0.543
+Ageing,2,3.092,0.832
+Sex,7,15.954,0.986
+sex,10,19.006,0.999

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Age,11,8.029,0.207
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),2,0.919,0.226
+Primary Sjogrens syndrome,6,4.906,0.375
+Sex,21,21.143,0.535
+sex,25,25.148,0.561
+Smoking,3,4.821,0.624
+age*sex,2,2.391,0.703
+Alcohol consumption,4,7.601,0.839
+age,133,145.847,0.943
+HIV infection,3,7.818,0.989

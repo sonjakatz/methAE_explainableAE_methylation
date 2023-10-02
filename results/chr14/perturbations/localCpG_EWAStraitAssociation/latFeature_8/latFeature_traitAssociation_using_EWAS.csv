@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+gestational age,4,1.398,0.049
+Crohn's disease,5,2.031,0.056
+sex,24,20.109,0.194
+Primary Sjogrens syndrome,11,8.787,0.263
+Nitrogen dioxide exposure,4,2.701,0.276
+HIV infection,11,9.735,0.395
+Rheumatoid arthritis,5,5.046,0.569
+Sex,14,17.356,0.72
+Age,6,8.208,0.811
+age,136,177.72,1.0

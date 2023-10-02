@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,36,9.42,0.0
+Papuan ancestry,27,9.475,0.0
+Inflammatory bowel disease,23,8.891,0.0
+Crohn's disease,31,15.331,0.001
+Smoking,20,27.748,0.747
+Sex,62,100.07,0.999
+Age,24,42.932,0.999
+HIV infection,21,35.429,0.999
+age,586,653.369,1.0
+sex,67,96.319,1.0

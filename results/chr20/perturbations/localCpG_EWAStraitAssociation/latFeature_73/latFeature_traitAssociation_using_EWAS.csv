@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,19,8.761,0.0
+Inflammatory bowel disease,8,4.065,0.038
+Ulcerative colitis,6,2.765,0.048
+Crohn's disease,8,7.177,0.411
+Smoking,6,5.491,0.441
+Primary Sjogrens syndrome,6,6.106,0.595
+Age,5,10.967,0.974
+sex,18,26.406,0.988
+age,143,164.644,0.992
+Sex,10,28.859,0.999

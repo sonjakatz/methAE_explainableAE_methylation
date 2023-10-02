@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+sex,39,27.41,0.008
+ACAP2 protein levels (SeqId = 12343-14),2,0.157,0.01
+Inflammatory bowel disease,9,4.25,0.019
+Papuan ancestry,6,2.606,0.037
+Crohn's disease,12,7.486,0.07
+Ulcerative colitis,6,2.966,0.073
+Sex,37,29.686,0.18
+Smoking,3,5.909,0.757
+Alcohol consumption,5,7.996,0.79
+age,161,171.327,0.879

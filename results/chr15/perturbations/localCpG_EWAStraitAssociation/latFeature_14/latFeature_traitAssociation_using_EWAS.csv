@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age*sex,5,1.988,0.051
+HIV infection,18,13.054,0.097
+sex,31,25.358,0.132
+Maternal smoking during pregnancy,4,1.5,0.162
+Schizophrenia,4,2.374,0.322
+Rheumatoid arthritis,7,6.082,0.414
+Sex,17,20.458,0.69
+Alcohol consumption,6,8.163,0.72
+Primary Sjogrens syndrome,4,9.329,0.985
+age,177,200.098,0.987

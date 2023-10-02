@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),12,3.067,0.0
+Ulcerative colitis,10,3.408,0.0
+HIV infection,29,14.293,0.001
+Papuan ancestry,10,3.674,0.005
+Inflammatory bowel disease,8,4.312,0.065
+Crohn's disease,8,5.651,0.193
+Sex,37,30.425,0.194
+sex,40,36.912,0.309
+Alcohol consumption,8,9.712,0.648
+age,188,255.697,1.0

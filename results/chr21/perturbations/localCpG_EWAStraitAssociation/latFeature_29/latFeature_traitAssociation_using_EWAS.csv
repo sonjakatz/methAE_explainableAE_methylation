@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,13,6.64,0.026
+Ageing,2,0.408,0.044
+Inflammatory bowel disease,5,2.572,0.095
+Smoking,3,0.795,0.129
+Crohn's disease,3,1.398,0.162
+Age,4,2.272,0.191
+Papuan ancestry,3,1.732,0.259
+age,64,60.294,0.271
+age*sex,2,1.076,0.307
+sex,9,7.709,0.365

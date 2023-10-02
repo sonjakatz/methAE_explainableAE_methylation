@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,7,3.149,0.038
+sex,30,25.058,0.172
+Smoking,11,6.742,0.21
+Ageing,7,5.114,0.244
+Alcohol consumption,5,4.442,0.443
+age,225,225.911,0.544
+Sex,20,21.756,0.619
+Age,7,10.249,0.854
+Primary Sjogrens syndrome,6,11.143,0.965
+HIV infection,5,12.337,0.996

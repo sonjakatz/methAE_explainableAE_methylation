@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,336,136.867,0.0
+sex,209,131.979,0.0
+age*sex,42,19.927,0.0
+Ulcerative colitis,25,13.185,0.0
+Crohn's disease,34,20.946,0.01
+Age,66,58.733,0.209
+Smoking,48,38.152,0.221
+Alcohol consumption,50,51.085,0.56
+HIV infection,42,48.678,0.876
+age,848,896.952,0.989

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,28,11.267,0.0
+Schizophrenia,5,1.759,0.073
+Ulcerative colitis,4,1.797,0.105
+Ageing,6,4.715,0.327
+Smoking,7,6.322,0.396
+Age,9,9.404,0.59
+Primary Sjogrens syndrome,8,10.421,0.847
+age,196,207.929,0.873
+sex,18,23.111,0.899
+Sex,12,19.538,0.907

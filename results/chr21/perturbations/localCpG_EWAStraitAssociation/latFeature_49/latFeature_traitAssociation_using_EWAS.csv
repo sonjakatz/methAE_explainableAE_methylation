@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Maternal smoking in pregnancy,2,0.345,0.038
+Papuan ancestry,5,2.039,0.052
+Gene expression of Affymetrix ID: 3935300 (gene symbol: MCM3AP),1,0.113,0.113
+LYZ protein levels (SeqId = 4920-10),1,0.117,0.117
+Leukocyte telomere length,4,0.472,0.118
+Gene expression of Affymetrix ID: 3935243 (gene symbol: LSS),1,0.242,0.23
+HIV infection,5,3.708,0.301
+age,73,70.986,0.403
+Sex,6,7.781,0.784
+sex,7,9.03,0.857

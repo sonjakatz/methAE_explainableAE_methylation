@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,4,0.877,0.008
+Crohn's disease,5,1.654,0.038
+Aggressive behaviour,1,0.056,0.056
+Age,6,3.189,0.133
+Ulcerative colitis,2,1.003,0.277
+sex,12,12.525,0.64
+age,61,63.516,0.712
+HIV infection,3,4.194,0.824
+Sex,7,10.497,0.842
+Ageing,1,1.945,0.875

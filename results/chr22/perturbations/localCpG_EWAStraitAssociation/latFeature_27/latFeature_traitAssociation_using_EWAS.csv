@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+RELL1 protein levels (SeqId = 13399-33),2,0.228,0.016
+sex,29,22.097,0.043
+Sex,25,18.678,0.126
+Aging,2,1.029,0.276
+Papuan ancestry,2,1.373,0.4
+Ulcerative colitis,2,1.371,0.414
+Alcohol consumption,7,6.719,0.476
+age,128,129.464,0.606
+Age,6,7.072,0.713
+HIV infection,2,6.858,0.993

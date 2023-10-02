@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),4,1.957,0.134
+Inflammatory bowel disease,2,1.305,0.374
+Schizophrenia,2,1.162,0.402
+Crohn's disease,3,2.44,0.441
+Rheumatoid arthritis,2,1.77,0.543
+Primary Sjogrens syndrome,2,3.384,0.869
+HIV infection,4,6.393,0.906
+age,83,95.375,0.97
+sex,13,18.829,0.977
+Sex,6,15.856,0.994

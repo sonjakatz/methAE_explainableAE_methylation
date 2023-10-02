@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,52,23.829,0.0
+sex,48,28.074,0.0
+gestational age,5,2.074,0.05
+Ulcerative colitis,4,2.231,0.182
+Smoking,8,7.719,0.42
+Ageing,6,5.629,0.491
+Age,8,11.475,0.864
+Rheumatoid arthritis,5,7.382,0.865
+age,226,248.787,0.978
+HIV infection,6,13.649,0.991

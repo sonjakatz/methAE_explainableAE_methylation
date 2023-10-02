@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,22,13.081,0.007
+Sex,41,28.327,0.043
+Papuan ancestry,7,3.361,0.046
+Schizophrenia,6,2.253,0.087
+Ulcerative colitis,5,3.122,0.193
+Smoking,10,6.961,0.252
+Rheumatoid arthritis,5,3.561,0.303
+sex,37,34.147,0.312
+Age,9,13.778,0.904
+age,178,237.195,1.0

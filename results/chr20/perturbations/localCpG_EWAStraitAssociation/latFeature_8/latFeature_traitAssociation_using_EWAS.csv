@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Perinatally acquired HIV,5,1.012,0.002
+Ulcerative colitis,8,3.235,0.015
+Inflammatory bowel disease,8,4.703,0.088
+sex,35,30.283,0.17
+Sex,40,33.283,0.207
+age*sex,5,4.558,0.478
+Smoking,6,6.292,0.521
+Crohn's disease,8,8.298,0.6
+HIV infection,6,10.008,0.952
+age,162,188.845,0.999

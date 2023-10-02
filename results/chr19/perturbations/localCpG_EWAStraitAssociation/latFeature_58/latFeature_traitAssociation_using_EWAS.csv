@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ageing,12,7.64,0.084
+age,365,356.014,0.281
+Nitrogen dioxide exposure,5,4.132,0.401
+Papuan ancestry,5,4.343,0.449
+Rheumatoid arthritis,9,8.78,0.515
+HIV infection,26,26.007,0.55
+Age,18,18.605,0.585
+Alcohol consumption,5,15.085,0.982
+sex,28,44.422,1.0
+Sex,13,47.697,1.0

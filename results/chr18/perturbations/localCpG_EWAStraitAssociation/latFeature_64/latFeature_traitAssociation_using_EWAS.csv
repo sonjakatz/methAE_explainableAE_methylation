@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Crohn's disease,4,1.18,0.03
+COLEC10 protein levels (SeqId = 6558-5),1,0.043,0.043
+KLK6 protein levels (SeqId = 3450-4),1,0.043,0.043
+H2AFZ protein levels (SeqId = 4163-5),1,0.043,0.043
+CBX5 protein levels (SeqId = 4540-11),1,0.043,0.043
+Inflammatory bowel disease,2,0.653,0.141
+age,44,45.751,0.677
+HIV infection,2,3.142,0.83
+Sex,3,7.364,0.953
+sex,2,8.936,1.0

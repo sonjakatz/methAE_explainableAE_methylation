@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,18,7.643,0.0
+M32388_dodecanedioate,9,1.19,0.0
+Papuan ancestry,7,3.425,0.05
+Schizophrenia,6,2.353,0.083
+HIV infection,19,13.872,0.09
+age,252,248.783,0.408
+Alcohol consumption,8,9.596,0.638
+Age,6,14.547,0.996
+Sex,12,29.658,0.998
+sex,13,36.153,1.0

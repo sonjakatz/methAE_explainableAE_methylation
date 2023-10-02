@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,104,29.048,0.0
+Schizophrenia,26,6.542,0.0
+Rheumatoid arthritis,27,15.967,0.002
+Sex,75,53.571,0.02
+Primary Sjogrens syndrome,25,16.758,0.023
+sex,57,54.912,0.408
+age*sex,10,9.424,0.478
+Crohn's disease,9,9.216,0.556
+age,352,497.151,1.0
+Age,9,25.961,1.0

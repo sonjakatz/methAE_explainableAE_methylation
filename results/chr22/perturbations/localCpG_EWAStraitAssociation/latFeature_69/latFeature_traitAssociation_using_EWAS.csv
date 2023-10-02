@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,5,1.388,0.009
+Inflammatory bowel disease,4,1.564,0.068
+Primary Sjogrens syndrome,7,4.132,0.106
+Crohn's disease,3,2.013,0.315
+HIV infection,8,6.611,0.341
+Ulcerative colitis,2,1.328,0.397
+age,124,123.791,0.511
+Age,5,6.722,0.796
+Sex,12,17.717,0.899
+sex,13,21.164,0.99

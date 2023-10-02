@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,7,2.271,0.001
+Pubertal timing,2,0.272,0.136
+Smoking,3,1.072,0.176
+Gene expression of Affymetrix ID: 3924783 (gene symbol: PRMT2),3,1.775,0.258
+Inflammatory bowel disease,4,3.295,0.419
+Age,3,2.898,0.561
+age,77,78.314,0.608
+Sex,4,8.598,0.945
+HIV infection,2,4.145,0.945
+sex,6,10.058,0.969

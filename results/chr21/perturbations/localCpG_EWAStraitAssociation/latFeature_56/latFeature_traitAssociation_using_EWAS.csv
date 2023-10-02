@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3924783 (gene symbol: PRMT2),5,1.835,0.023
+FIG4 protein levels (SeqId = 6948-82),2,0.298,0.023
+Gene expression of Affymetrix ID: 3924674 (gene symbol: DIP2A),3,0.929,0.048
+Inflammatory bowel disease,6,3.415,0.102
+Primary Sjogrens syndrome,3,2.42,0.447
+age*sex,2,1.476,0.454
+age,83,82.108,0.467
+Papuan ancestry,2,2.389,0.713
+Sex,7,9.02,0.765
+sex,6,10.481,0.978

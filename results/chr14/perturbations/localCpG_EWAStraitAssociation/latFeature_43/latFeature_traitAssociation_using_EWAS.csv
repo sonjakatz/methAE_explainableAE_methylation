@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,32,7.543,0.0
+breast cancer,3,0.192,0.007
+HIV infection,13,8.411,0.075
+Schizophrenia,3,1.283,0.173
+Crohn's disease,3,1.787,0.262
+sex,20,17.238,0.268
+Papuan ancestry,3,2.176,0.359
+Rheumatoid arthritis,5,4.448,0.464
+Sex,3,14.864,0.998
+age,91,154.651,1.0

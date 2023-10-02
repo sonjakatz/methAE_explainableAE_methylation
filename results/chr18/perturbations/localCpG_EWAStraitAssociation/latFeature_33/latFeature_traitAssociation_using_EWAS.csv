@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Nitrogen dioxide exposure,3,1.38,0.133
+Crohn's disease,6,3.493,0.143
+Primary Sjogrens syndrome,7,4.556,0.156
+Papuan ancestry,3,1.47,0.179
+Schizophrenia,3,1.651,0.252
+age,132,129.181,0.38
+Age,3,6.437,0.928
+HIV infection,5,8.523,0.961
+sex,19,25.457,0.969
+Sex,11,21.476,0.988

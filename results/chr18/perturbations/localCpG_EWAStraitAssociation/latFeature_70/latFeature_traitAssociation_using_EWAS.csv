@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,6,3.514,0.124
+schizophrenia,2,0.378,0.182
+M32388_dodecanedioate,2,0.752,0.325
+CRISP2 protein levels (SeqId = 9282-12),3,2.055,0.334
+Inflammatory bowel disease,2,1.456,0.419
+Crohn's disease,3,2.741,0.525
+age,90,101.371,0.957
+sex,14,20.093,0.978
+HIV infection,3,6.653,0.979
+Sex,7,17.101,0.993

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+IL2RB protein levels (SeqId = 9343-16),8,1.488,0.0
+Ulcerative colitis,8,3.032,0.01
+CRISP2 protein levels (SeqId = 9282-12),7,2.674,0.011
+Papuan ancestry,8,3.243,0.015
+age,253,230.957,0.026
+Ageing,11,5.893,0.028
+Age,17,13.431,0.215
+Alcohol consumption,8,8.792,0.579
+HIV infection,11,12.847,0.768
+sex,14,33.502,1.0

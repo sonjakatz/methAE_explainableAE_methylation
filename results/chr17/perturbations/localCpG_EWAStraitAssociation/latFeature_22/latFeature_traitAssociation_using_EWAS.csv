@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,10,3.587,0.001
+Body mass index,19,4.753,0.03
+Sex,59,45.19,0.091
+Crohn's disease,9,7.749,0.373
+age,422,416.962,0.399
+sex,48,46.137,0.406
+Alcohol consumption,15,16.683,0.612
+Age,16,21.599,0.886
+Primary Sjogrens syndrome,9,13.974,0.947
+HIV infection,15,24.256,0.989

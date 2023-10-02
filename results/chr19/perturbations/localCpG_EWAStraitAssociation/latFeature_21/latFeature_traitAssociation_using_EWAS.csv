@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,444,356.702,0.0
+Age,57,18.561,0.0
+HIV infection,43,26.09,0.0
+Ageing,30,7.596,0.0
+GZMK protein levels (SeqId = 9545-156),11,2.047,0.0
+GZMA protein levels (SeqId = 3440-7),9,1.522,0.0
+IL2RB protein levels (SeqId = 9343-16),8,1.245,0.0
+age*sex,6,6.93,0.699
+Sex,27,47.539,0.995
+sex,19,44.929,1.0

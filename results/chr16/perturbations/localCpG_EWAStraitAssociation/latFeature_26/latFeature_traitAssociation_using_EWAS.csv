@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,50,16.665,0.0
+Rheumatoid arthritis,20,6.342,0.0
+GZMK protein levels (SeqId = 9545-156),6,1.755,0.004
+Nitrogen dioxide exposure,8,4.292,0.07
+Schizophrenia,6,2.422,0.098
+sex,28,30.222,0.701
+Alcohol consumption,6,10.767,0.869
+Sex,19,30.787,0.959
+Age,6,13.949,0.991
+age,222,268.232,1.0

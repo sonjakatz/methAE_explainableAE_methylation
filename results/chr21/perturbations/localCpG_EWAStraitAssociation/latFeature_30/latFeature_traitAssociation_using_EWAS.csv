@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,4,1.323,0.035
+Maternal smoking in pregnancy,2,0.349,0.04
+M32388_dodecanedioate,2,0.226,0.113
+Inflammatory bowel disease,5,2.908,0.144
+Crohn's disease,3,1.632,0.214
+Primary Sjogrens syndrome,3,2.052,0.336
+HIV infection,4,3.715,0.518
+Sex,5,7.824,0.849
+age,61,69.255,0.924
+sex,6,8.995,0.931

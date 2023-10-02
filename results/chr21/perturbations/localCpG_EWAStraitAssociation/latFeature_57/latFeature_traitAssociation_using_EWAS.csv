@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,6,2.125,0.012
+ITIH5 protein levels (SeqId = 8233-2),1,0.121,0.121
+homocysteine GRS,2,0.704,0.149
+Gene expression of Affymetrix ID: 3935243 (gene symbol: LSS),1,0.268,0.251
+Ageing,1,0.448,0.383
+Schizophrenia,2,0.882,0.385
+age*sex,1,1.32,0.772
+age,70,74.705,0.803
+HIV infection,2,3.96,0.927
+sex,4,9.61,0.995

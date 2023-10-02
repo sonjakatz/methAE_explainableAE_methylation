@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,3,0.946,0.056
+age*sex,3,1.267,0.127
+Primary Sjogrens syndrome,8,5.254,0.157
+Nitrogen dioxide exposure,3,1.577,0.207
+Crohn's disease,2,1.195,0.334
+sex,12,11.656,0.496
+Sex,8,10.172,0.688
+HIV infection,4,5.756,0.828
+Age,2,4.837,0.948
+age,92,104.889,0.954

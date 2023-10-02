@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,22,8.967,0.0
+Alcohol consumption per day,11,3.32,0.001
+M00054_tryptophan,9,1.161,0.001
+HIV infection,37,28.231,0.047
+Age,25,20.371,0.207
+Crohn's disease,10,7.58,0.239
+Alcohol consumption,17,16.594,0.47
+sex,46,48.661,0.696
+age,376,387.758,0.789
+Sex,32,51.843,0.987

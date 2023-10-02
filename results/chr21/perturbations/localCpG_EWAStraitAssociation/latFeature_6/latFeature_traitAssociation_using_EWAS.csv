@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+COL6A1 protein levels (SeqId = 16828-8),2,0.221,0.014
+Papuan ancestry,5,2.174,0.057
+Gene expression of Affymetrix ID: 3935243 (gene symbol: LSS),1,0.247,0.231
+Ulcerative colitis,2,1.417,0.435
+Crohn's disease,2,1.791,0.544
+Inflammatory bowel disease,3,3.036,0.611
+sex,8,9.364,0.786
+age,68,72.736,0.823
+Sex,5,8.042,0.887
+HIV infection,1,3.86,0.985

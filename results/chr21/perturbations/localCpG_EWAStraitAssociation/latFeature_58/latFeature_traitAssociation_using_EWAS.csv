@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Leukocyte telomere length,4,0.496,0.124
+Gene expression of Affymetrix ID: 3914786 (gene symbol: ABCC13),1,0.124,0.124
+Gene expression of Affymetrix ID: 3934245 (gene symbol: CSTB),1,0.127,0.127
+Sex,9,8.142,0.431
+Crohn's disease,1,1.776,0.87
+Papuan ancestry,1,2.226,0.91
+Inflammatory bowel disease,1,3.011,0.969
+sex,5,9.562,0.974
+HIV infection,1,4.075,0.989
+age,59,74.526,0.998

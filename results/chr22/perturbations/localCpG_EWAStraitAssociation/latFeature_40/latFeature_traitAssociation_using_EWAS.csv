@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Age,17,7.348,0.002
+Maternal body mass index,3,0.231,0.004
+Aging,4,1.039,0.007
+Crohn's disease,6,2.12,0.018
+age*sex,5,2.184,0.053
+Primary Sjogrens syndrome,5,4.324,0.435
+Sex,20,19.146,0.441
+age,133,132.847,0.509
+sex,21,22.669,0.709
+Alcohol consumption,4,7.022,0.826

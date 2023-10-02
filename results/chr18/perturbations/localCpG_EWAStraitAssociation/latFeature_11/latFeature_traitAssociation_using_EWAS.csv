@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,2,0.295,0.076
+C21orf33 protein levels (SeqId = 5981-6),1,0.081,0.081
+MCEMP1 protein levels (SeqId = 6283-60),1,0.081,0.081
+Crohn's disease,5,2.173,0.086
+Inflammatory bowel disease,3,1.139,0.107
+Papuan ancestry,2,0.875,0.222
+age,79,79.778,0.577
+Age,2,3.997,0.871
+sex,12,15.612,0.915
+Sex,6,13.257,0.977

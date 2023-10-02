@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+COL6A1 protein levels (SeqId = 16828-8),2,0.201,0.012
+Maternal smoking in pregnancy,2,0.351,0.036
+Gene expression of Affymetrix ID: 3935300 (gene symbol: MCM3AP),1,0.109,0.109
+ITIH5 protein levels (SeqId = 8233-2),1,0.116,0.116
+Papuan ancestry,4,2.031,0.133
+Sex,5,7.655,0.831
+age,62,69.289,0.914
+HIV infection,2,3.742,0.915
+Inflammatory bowel disease,1,2.907,0.961
+sex,4,9.003,0.995

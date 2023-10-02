@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,6,2.681,0.032
+CRISP2 protein levels (SeqId = 9282-12),5,2.203,0.054
+Rheumatoid arthritis,6,2.913,0.068
+Crohn's disease,6,4.211,0.246
+HIV infection,12,10.566,0.357
+Inflammatory bowel disease,4,3.147,0.379
+Ulcerative colitis,3,2.497,0.466
+sex,23,27.185,0.867
+Sex,15,22.226,0.892
+age,142,188.203,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Crohn's disease,17,6.738,0.001
+Age,27,17.877,0.04
+Body mass index,11,2.992,0.048
+age,362,343.598,0.081
+Papuan ancestry,7,3.886,0.094
+Primary Sjogrens syndrome,16,11.639,0.123
+Nitrogen dioxide exposure,8,5.412,0.166
+Alcohol consumption,16,13.744,0.34
+Sex,34,39.134,0.735
+sex,29,38.466,0.974

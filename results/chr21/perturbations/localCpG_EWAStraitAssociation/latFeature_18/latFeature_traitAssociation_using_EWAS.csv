@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,9,3.224,0.001
+Ulcerative colitis,6,1.462,0.003
+Maternal smoking in pregnancy,3,0.378,0.003
+Gene expression of Affymetrix ID: 3924783 (gene symbol: PRMT2),5,1.752,0.02
+Crohn's disease,5,1.892,0.025
+age*sex,3,1.391,0.152
+Papuan ancestry,4,2.305,0.178
+Sex,8,8.694,0.626
+sex,8,10.146,0.863
+age,71,78.531,0.906

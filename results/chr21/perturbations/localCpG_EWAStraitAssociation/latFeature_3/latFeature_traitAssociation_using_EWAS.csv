@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3934245 (gene symbol: CSTB),1,0.08,0.08
+Gene expression of Affymetrix ID: 3935300 (gene symbol: MCM3AP),1,0.087,0.087
+sex,10,6.612,0.102
+Gene expression of Affymetrix ID: 3935243 (gene symbol: LSS),1,0.178,0.171
+Papuan ancestry,3,1.483,0.188
+Sex,7,5.828,0.379
+Age,2,1.835,0.533
+age,46,50.774,0.848
+Inflammatory bowel disease,1,2.161,0.901
+HIV infection,1,2.662,0.952

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ageing,24,7.508,0.0
+GZMK protein levels (SeqId = 9545-156),12,2.387,0.0
+IL2RB protein levels (SeqId = 9343-16),10,1.927,0.0
+Age,37,22.56,0.006
+age,465,433.946,0.025
+HIV infection,29,25.466,0.254
+Crohn's disease,9,8.126,0.42
+Smoking,9,11.773,0.65
+Sex,25,47.111,0.994
+sex,33,48.454,0.999

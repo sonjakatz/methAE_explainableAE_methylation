@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+sex,32,23.039,0.014
+Sex,33,19.616,0.016
+age,149,134.697,0.046
+Ulcerative colitis,4,1.474,0.048
+age*sex,5,2.187,0.05
+Alcohol consumption,13,7.194,0.104
+Age,11,7.23,0.13
+Pubertal timing,2,0.268,0.131
+schizophrenia,2,0.652,0.285
+HIV infection,3,7.25,0.977

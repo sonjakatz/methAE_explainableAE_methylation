@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,7,3.209,0.038
+sex,38,30.849,0.099
+Ulcerative colitis,4,2.248,0.182
+Sex,37,33.14,0.319
+Nitrogen dioxide exposure,4,2.894,0.335
+age*sex,4,4.669,0.698
+Alcohol consumption,7,10.332,0.753
+age,237,246.297,0.784
+HIV infection,15,18.217,0.814
+Crohn's disease,3,4.848,0.87

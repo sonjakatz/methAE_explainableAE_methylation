@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,7,3.608,0.067
+Body mass index,8,2.823,0.108
+Rheumatoid arthritis,10,7.273,0.195
+Crohn's disease,7,6.142,0.404
+Nitrogen dioxide exposure,5,4.993,0.575
+HIV infection,16,19.416,0.846
+Age,10,16.344,0.949
+sex,26,34.659,0.965
+Sex,19,35.124,0.99
+age,257,310.541,1.0

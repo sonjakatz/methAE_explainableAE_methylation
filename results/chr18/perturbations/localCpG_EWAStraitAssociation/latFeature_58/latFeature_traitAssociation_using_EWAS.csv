@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+SIRPG protein levels (SeqId = 9241-40),1,0.086,0.086
+MCEMP1 protein levels (SeqId = 6283-60),1,0.086,0.086
+Crohn's disease,5,2.53,0.113
+Inflammatory bowel disease,3,1.373,0.147
+Schizophrenia,2,1.159,0.37
+Rheumatoid arthritis,2,1.732,0.522
+HIV infection,6,6.395,0.655
+Age,2,4.726,0.902
+age,82,95.374,0.978
+sex,13,19.047,0.981

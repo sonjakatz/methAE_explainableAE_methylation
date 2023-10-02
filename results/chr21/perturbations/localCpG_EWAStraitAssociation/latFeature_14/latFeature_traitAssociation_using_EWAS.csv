@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Maternal smoking during pregnancy,2,0.272,0.136
+GAS1 protein levels (SeqId = 5463-22),1,0.139,0.139
+sex,14,10.654,0.152
+Sex,12,9.2,0.224
+FIG4 protein levels (SeqId = 6948-82),1,0.269,0.258
+Papuan ancestry,3,2.435,0.447
+Age,3,3.043,0.583
+Inflammatory bowel disease,3,3.411,0.668
+age,75,83.824,0.934
+HIV infection,2,4.406,0.952

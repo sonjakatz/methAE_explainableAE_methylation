@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+MAPK8 protein levels (SeqId = 3825-18),1,0.105,0.105
+ABLIM3 protein levels (SeqId = 13578-98),1,0.105,0.105
+TRIM3 protein levels (SeqId = 12573-80),1,0.105,0.105
+ASMTL protein levels (SeqId = 10089-7),1,0.105,0.105
+Papuan ancestry,2,1.546,0.465
+HIV infection,2,2.867,0.811
+Primary Sjogrens syndrome,1,1.578,0.814
+Sex,3,6.072,0.913
+age,45,54.761,0.981
+sex,3,7.004,0.993

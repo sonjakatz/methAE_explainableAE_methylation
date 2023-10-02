@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,36,10.273,0.0
+Non-syndromic cleft lipandpalate,2,0.228,0.006
+Rheumatoid arthritis,5,1.598,0.009
+CRISP2 protein levels (SeqId = 9282-12),2,0.239,0.011
+Mortality,2,0.694,0.154
+Aging,2,1.454,0.434
+Papuan ancestry,2,2.054,0.629
+sex,29,32.783,0.829
+Sex,19,27.749,0.944
+age,126,191.758,1.0

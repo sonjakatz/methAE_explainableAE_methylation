@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,16,8.31,0.018
+ITIH5 protein levels (SeqId = 8233-2),1,0.113,0.113
+Leukocyte telomere length,4,0.516,0.129
+sex,12,9.54,0.224
+Papuan ancestry,2,2.184,0.681
+age*sex,1,1.323,0.76
+Ulcerative colitis,1,1.399,0.793
+Inflammatory bowel disease,1,3.095,0.966
+age,62,74.656,0.989
+HIV infection,1,4.004,0.994

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+NAAA protein levels (SeqId = 3173-49),1,0.013,0.013
+TFF3 protein levels (SeqId = 8323-163),1,0.013,0.013
+CTNNB1 protein levels (SeqId = 9842-2),1,0.017,0.017
+TNS4 protein levels (SeqId = 9927-96),1,0.017,0.017
+Ulcerative colitis,2,0.366,0.043
+Inflammatory bowel disease,2,0.44,0.077
+HIV infection,2,1.875,0.575
+Sex,4,4.915,0.664
+sex,3,5.723,0.961
+age,23,34.817,0.998

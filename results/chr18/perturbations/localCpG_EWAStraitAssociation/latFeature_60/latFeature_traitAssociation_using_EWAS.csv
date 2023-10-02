@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+RTN4R protein levels (SeqId = 5105-2),2,0.162,0.007
+ANGPT2 protein levels (SeqId = 2602-2),1,0.075,0.075
+Android total mass,1,0.091,0.091
+Inflammatory bowel disease,3,1.299,0.142
+HIV infection,7,6.146,0.428
+age,85,91.954,0.851
+Primary Sjogrens syndrome,2,3.183,0.856
+sex,12,18.205,0.981
+Age,1,4.569,0.983
+Sex,7,15.358,0.984

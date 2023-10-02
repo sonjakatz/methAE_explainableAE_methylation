@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+sex,36,27.286,0.035
+birthweight,3,0.383,0.062
+Alcohol consumption per day,3,1.7,0.245
+Papuan ancestry,4,3.497,0.469
+HIV infection,12,13.235,0.677
+Rheumatoid arthritis,6,6.945,0.7
+Sex,18,23.288,0.794
+Ageing,4,5.479,0.8
+Primary Sjogrens syndrome,7,11.883,0.955
+age,209,242.34,0.996

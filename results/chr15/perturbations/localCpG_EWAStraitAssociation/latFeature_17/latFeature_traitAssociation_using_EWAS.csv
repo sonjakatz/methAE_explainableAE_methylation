@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ageing,14,4.764,0.0
+age,245,214.254,0.002
+Age,23,9.821,0.004
+Inflammatory bowel disease,7,2.796,0.02
+Crohn's disease,8,4.399,0.076
+HIV infection,19,14.028,0.098
+Rheumatoid arthritis,7,6.512,0.471
+Primary Sjogrens syndrome,5,9.938,0.98
+Sex,8,21.758,0.993
+sex,11,27.204,1.0

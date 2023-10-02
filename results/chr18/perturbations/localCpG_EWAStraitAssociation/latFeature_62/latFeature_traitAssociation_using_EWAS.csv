@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,4,0.239,0.0
+Inflammatory bowel disease,3,0.919,0.063
+Aggressive behaviour,1,0.064,0.064
+Crohn's disease,4,1.653,0.098
+HIV infection,6,4.384,0.276
+Rheumatoid arthritis,2,1.158,0.321
+sex,13,12.71,0.515
+Ulcerative colitis,1,0.996,0.653
+Sex,8,10.825,0.771
+age,57,65.223,0.93

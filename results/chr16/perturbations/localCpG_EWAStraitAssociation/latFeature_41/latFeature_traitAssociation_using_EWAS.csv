@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,127,34.471,0.0
+sex,88,33.897,0.0
+Alcohol consumption,46,11.704,0.0
+Alcohol consumption per day,16,3.718,0.0
+age*sex,13,3.954,0.0
+Inflammatory bowel disease,7,3.371,0.04
+Papuan ancestry,7,3.601,0.061
+age,317,302.613,0.12
+Crohn's disease,8,5.908,0.263
+Age,12,15.637,0.818

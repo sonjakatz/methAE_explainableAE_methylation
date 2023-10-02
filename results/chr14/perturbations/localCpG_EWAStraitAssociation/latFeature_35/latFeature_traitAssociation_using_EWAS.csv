@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+IL5RA protein levels (SeqId = 13686-2),2,0.212,0.014
+Rheumatoid arthritis,9,5.746,0.124
+Crohn's disease,2,2.334,0.652
+Ageing,4,4.569,0.7
+HIV infection,7,10.796,0.914
+sex,16,22.37,0.951
+age,181,199.816,0.965
+Age,3,9.073,0.989
+Sex,4,18.917,0.998
+Primary Sjogrens syndrome,3,9.822,0.998

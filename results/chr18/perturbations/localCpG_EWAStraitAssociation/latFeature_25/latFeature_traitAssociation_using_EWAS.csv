@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Frontotemporal dementia,4,0.396,0.0
+Inflammatory bowel disease,5,1.465,0.013
+Age,10,5.163,0.076
+age*sex,2,0.909,0.216
+Crohn's disease,4,2.625,0.279
+Ulcerative colitis,2,1.532,0.457
+Primary Sjogrens syndrome,3,3.724,0.727
+sex,18,20.089,0.763
+age,93,102.935,0.934
+Sex,5,17.042,0.997

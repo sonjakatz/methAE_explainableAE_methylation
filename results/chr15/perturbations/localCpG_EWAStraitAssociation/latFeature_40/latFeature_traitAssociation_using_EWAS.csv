@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+breast cancer,4,0.507,0.013
+Papuan ancestry,5,1.609,0.022
+Age,15,10.175,0.136
+Rheumatoid arthritis,8,6.508,0.328
+HIV infection,15,13.931,0.422
+Primary Sjogrens syndrome,10,10.065,0.57
+Alcohol consumption,7,8.593,0.655
+age,210,215.423,0.696
+Sex,16,21.819,0.81
+sex,23,27.133,0.865

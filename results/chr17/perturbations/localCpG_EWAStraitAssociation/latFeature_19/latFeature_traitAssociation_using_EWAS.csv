@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,39,21.892,0.0
+Smoking,17,10.132,0.113
+age*sex,10,6.815,0.13
+Crohn's disease,10,7.041,0.206
+age,381,370.703,0.242
+Rheumatoid arthritis,14,11.743,0.288
+Alcohol consumption,11,14.493,0.737
+Sex,34,39.411,0.743
+Age,15,19.246,0.824
+sex,34,40.772,0.909

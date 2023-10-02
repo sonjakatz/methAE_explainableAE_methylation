@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,10,1.989,0.0
+M01299_tyrosine,5,0.539,0.003
+Papuan ancestry,7,3.165,0.036
+Sex,34,21.413,0.038
+sex,30,24.924,0.138
+HIV infection,15,12.302,0.231
+Primary Sjogrens syndrome,12,10.905,0.42
+Alcohol consumption,5,4.476,0.456
+Smoking,6,6.773,0.499
+age,218,222.46,0.675

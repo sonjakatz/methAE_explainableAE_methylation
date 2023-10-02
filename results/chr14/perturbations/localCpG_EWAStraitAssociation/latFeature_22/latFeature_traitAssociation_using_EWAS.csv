@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,7,2.53,0.009
+Ulcerative colitis,5,1.589,0.013
+IL2RB protein levels (SeqId = 9343-16),3,0.893,0.053
+Ageing,5,3.972,0.36
+age,177,177.75,0.543
+Nitrogen dioxide exposure,2,2.761,0.773
+sex,15,20.076,0.929
+Sex,9,17.13,0.945
+Age,4,8.091,0.957
+HIV infection,2,9.703,0.999

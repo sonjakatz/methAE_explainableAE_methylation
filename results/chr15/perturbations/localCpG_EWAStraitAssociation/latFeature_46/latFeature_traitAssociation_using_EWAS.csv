@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Crohn's disease,14,2.876,0.0
+Inflammatory bowel disease,14,1.816,0.0
+Papuan ancestry,4,1.041,0.015
+Gene expression of Affymetrix ID: 3638819 (gene symbol: CIB1),2,0.208,0.018
+Pubertal timing,4,0.396,0.064
+Sex,10,14.194,0.787
+age,135,141.32,0.789
+HIV infection,6,9.221,0.91
+sex,13,17.758,0.944
+Primary Sjogrens syndrome,3,6.748,0.976

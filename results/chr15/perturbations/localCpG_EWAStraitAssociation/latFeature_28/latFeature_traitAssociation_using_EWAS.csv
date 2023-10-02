@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,72,22.467,0.0
+sex,46,28.315,0.0
+Maternal smoking during pregnancy,12,1.776,0.0
+Crohn's disease,13,4.486,0.001
+Maternal smoking in pregnancy,7,0.643,0.002
+age*sex,7,2.193,0.004
+Inflammatory bowel disease,8,2.917,0.005
+Smoking,15,5.983,0.069
+age,208,224.573,0.941
+HIV infection,8,14.698,0.98

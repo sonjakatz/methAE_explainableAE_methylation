@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,359,311.966,0.0
+Age,31,16.027,0.001
+Papuan ancestry,8,3.951,0.043
+Sex,55,41.371,0.074
+Alcohol consumption,20,13.068,0.135
+Ageing,10,6.715,0.135
+HIV infection,27,22.931,0.211
+Rheumatoid arthritis,9,7.743,0.367
+age*sex,7,6.021,0.384
+sex,30,39.147,0.969

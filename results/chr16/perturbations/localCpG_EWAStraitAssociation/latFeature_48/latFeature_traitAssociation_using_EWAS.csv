@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Air pollution exposure,1,0.094,0.086
+PAPPA protein levels (SeqId = 4148-49),1,0.18,0.167
+HIV infection,5,3.418,0.249
+Primary Sjogrens syndrome,2,1.804,0.542
+Nitrogen dioxide exposure,1,0.843,0.569
+sex,6,6.064,0.583
+Alcohol consumption,1,2.106,0.711
+Age,2,2.847,0.739
+Sex,2,6.158,0.954
+age,35,54.371,1.0

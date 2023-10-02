@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ageing,10,2.277,0.0
+Liver fat,4,0.284,0.0
+age,91,72.701,0.002
+IL2RB protein levels (SeqId = 9343-16),4,0.609,0.002
+CRISP2 protein levels (SeqId = 9282-12),3,1.441,0.173
+Sex,16,12.26,0.221
+HIV infection,6,4.755,0.326
+Age,4,3.599,0.444
+Alcohol consumption,3,2.864,0.494
+sex,13,14.427,0.745

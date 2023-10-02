@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+LTA protein levels (SeqId = 3505-6),1,0.084,0.084
+FCER2 protein levels (SeqId = 3291-30),1,0.084,0.084
+Trajectories of social communication deficits,1,0.091,0.091
+COL6A1 protein levels (SeqId = 16828-8),1,0.186,0.179
+Crohn's disease,2,1.51,0.456
+Inflammatory bowel disease,3,2.573,0.493
+HIV infection,2,3.27,0.86
+Age,1,2.207,0.869
+age,54,62.045,0.943
+Sex,1,6.75,0.998

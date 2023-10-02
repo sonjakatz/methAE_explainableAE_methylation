@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3965102 (gene symbol: C22orf34),4,0.466,0.0
+sex,35,26.357,0.035
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),3,1.193,0.102
+birthweight,3,0.351,0.117
+Smoking,6,5.013,0.286
+Sex,24,22.494,0.423
+age*sex,3,2.687,0.513
+Alcohol consumption,8,7.948,0.517
+age,142,154.941,0.944
+HIV infection,4,8.286,0.981

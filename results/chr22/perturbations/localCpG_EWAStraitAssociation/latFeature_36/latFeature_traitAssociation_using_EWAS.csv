@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),2,0.134,0.003
+Inflammatory bowel disease,4,1.386,0.041
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),3,0.905,0.061
+Sex,23,16.194,0.105
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),2,0.747,0.174
+sex,22,19.116,0.256
+Ulcerative colitis,2,1.202,0.332
+Papuan ancestry,2,1.215,0.347
+Crohn's disease,2,1.764,0.527
+age,87,111.283,0.999

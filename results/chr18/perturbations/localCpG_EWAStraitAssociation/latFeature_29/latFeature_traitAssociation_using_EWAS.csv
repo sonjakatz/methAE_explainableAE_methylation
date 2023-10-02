@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,4,1.034,0.018
+CELA2A protein levels (SeqId = 7140-1),1,0.064,0.064
+GDF3 protein levels (SeqId = 16755-195),1,0.078,0.078
+Crohn's disease,4,1.936,0.132
+Sex,13,11.504,0.374
+CRISP2 protein levels (SeqId = 9282-12),2,1.359,0.397
+Age,4,3.455,0.418
+sex,12,13.593,0.756
+age,62,69.518,0.902
+HIV infection,2,4.616,0.97

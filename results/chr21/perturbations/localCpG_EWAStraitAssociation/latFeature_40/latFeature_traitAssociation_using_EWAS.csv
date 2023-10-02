@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,17,4.191,0.0
+Gene expression of Affymetrix ID: 3924783 (gene symbol: PRMT2),12,2.271,0.0
+Ulcerative colitis,9,1.978,0.0
+Gene expression of Affymetrix ID: 3924674 (gene symbol: DIP2A),5,1.122,0.005
+Crohn's disease,6,2.463,0.017
+Papuan ancestry,3,2.977,0.591
+Sex,8,11.376,0.855
+sex,9,13.118,0.951
+HIV infection,2,5.46,0.987
+age,82,101.629,0.999

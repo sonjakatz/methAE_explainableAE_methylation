@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,4,0.269,0.0
+Inflammatory bowel disease,4,1.184,0.017
+22:6 docosahexaenoic acid,1,0.078,0.078
+sex,19,14.815,0.107
+age*sex,2,0.622,0.124
+CRISP2 protein levels (SeqId = 9282-12),3,1.54,0.198
+Crohn's disease,3,2.097,0.345
+Sex,13,12.657,0.471
+Alcohol consumption,2,2.895,0.63
+age,71,76.157,0.808

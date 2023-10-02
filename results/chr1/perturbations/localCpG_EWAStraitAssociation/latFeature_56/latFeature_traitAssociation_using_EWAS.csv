@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,1020,884.966,0.0
+Primary Sjogrens syndrome,68,37.656,0.0
+Ageing,42,19.388,0.0
+GZMK protein levels (SeqId = 9545-156),41,9.177,0.0
+Nitrogen dioxide exposure,28,14.544,0.0
+HIV infection,56,48.264,0.126
+Smoking,26,36.493,0.813
+Age,48,57.527,0.89
+Sex,72,135.853,1.0
+sex,63,130.423,1.0

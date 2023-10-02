@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+COL6A1 protein levels (SeqId = 16828-8),1,0.254,0.238
+Gene expression of Affymetrix ID: 3924783 (gene symbol: PRMT2),2,1.663,0.525
+homocysteine GRS,1,0.694,0.538
+Inflammatory bowel disease,3,3.092,0.622
+Papuan ancestry,2,2.106,0.649
+sex,8,9.467,0.786
+Primary Sjogrens syndrome,1,2.097,0.902
+HIV infection,2,3.878,0.93
+Sex,3,8.3,0.977
+age,59,72.581,0.988

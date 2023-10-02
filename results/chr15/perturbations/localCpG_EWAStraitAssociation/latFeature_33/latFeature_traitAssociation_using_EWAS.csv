@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,30,12.445,0.0
+Non-syndromic cleft lipandpalate,2,0.156,0.006
+Primary Sjogrens syndrome,17,9.17,0.01
+breast cancer,4,0.495,0.014
+Rheumatoid arthritis,10,5.824,0.066
+Schizophrenia,6,2.115,0.08
+sex,26,24.65,0.41
+gestational age,2,1.892,0.593
+Alcohol consumption,3,8.007,0.945
+age,135,193.654,1.0

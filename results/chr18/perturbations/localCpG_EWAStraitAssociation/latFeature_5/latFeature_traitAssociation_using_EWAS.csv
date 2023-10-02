@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),6,1.814,0.002
+Frontotemporal dementia,3,0.35,0.004
+Inflammatory bowel disease,4,1.281,0.037
+sex,24,17.881,0.044
+Sex,21,15.005,0.127
+Crohn's disease,3,2.403,0.417
+age*sex,1,0.739,0.538
+IL2RB protein levels (SeqId = 9343-16),1,0.802,0.578
+age,88,92.218,0.764
+HIV infection,2,6.237,0.991

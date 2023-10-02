@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,25,13.099,0.0
+Schizophrenia,8,3.061,0.063
+Inflammatory bowel disease,7,3.572,0.071
+Crohn's disease,9,5.612,0.126
+HIV infection,23,18.114,0.131
+Rheumatoid arthritis,9,8.449,0.48
+Age,11,12.88,0.696
+sex,30,35.278,0.871
+Sex,15,27.846,0.977
+age,231,278.566,1.0

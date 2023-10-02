@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+M00054_tryptophan,5,1.006,0.009
+Primary Sjogrens syndrome,11,5.273,0.011
+Ulcerative colitis,3,1.678,0.238
+Inflammatory bowel disease,3,1.975,0.317
+Smoking,5,5.118,0.398
+Crohn's disease,3,2.486,0.444
+Sex,16,22.369,0.898
+age,146,156.822,0.902
+sex,21,26.715,0.936
+HIV infection,4,8.331,0.977

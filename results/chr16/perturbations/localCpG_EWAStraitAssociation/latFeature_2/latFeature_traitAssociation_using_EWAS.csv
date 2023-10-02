@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Body mass index,20,2.911,0.0
+Alcohol consumption per day,12,4.106,0.0
+Ageing,13,6.082,0.007
+Age,30,17.615,0.008
+age,364,337.985,0.031
+Smoking,20,7.935,0.037
+Alcohol consumption,21,13.316,0.097
+Sex,40,38.444,0.435
+HIV infection,21,20.914,0.554
+sex,27,37.972,0.983

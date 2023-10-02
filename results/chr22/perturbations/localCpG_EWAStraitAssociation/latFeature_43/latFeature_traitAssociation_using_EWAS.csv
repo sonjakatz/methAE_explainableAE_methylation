@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),4,0.52,0.002
+TNS4 protein levels (SeqId = 9927-96),1,0.043,0.043
+Inflammatory bowel disease,3,1.04,0.09
+Papuan ancestry,2,0.815,0.198
+Ulcerative colitis,2,0.841,0.203
+Crohn's disease,2,1.296,0.36
+HIV infection,4,4.209,0.636
+Sex,6,11.177,0.939
+sex,8,13.32,0.985
+age,54,78.174,1.0

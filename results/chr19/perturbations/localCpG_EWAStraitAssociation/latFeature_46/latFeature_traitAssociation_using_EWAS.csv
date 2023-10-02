@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,420,360.301,0.0
+GZMK protein levels (SeqId = 9545-156),9,2.022,0.0
+Ageing,17,7.721,0.001
+Crohn's disease,9,7.057,0.279
+Smoking,8,10.143,0.599
+Age,17,18.81,0.696
+Alcohol consumption,12,15.137,0.719
+HIV infection,23,26.213,0.783
+Sex,36,48.082,0.905
+sex,27,45.351,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,4,1.157,0.019
+Crohn's disease,5,2.009,0.057
+M01299_tyrosine,2,0.213,0.065
+GRID2 protein levels (SeqId = 12758-47),1,0.067,0.067
+Total cholesterol in HDL2,1,0.081,0.081
+Nitrogen dioxide exposure,2,0.84,0.197
+Primary Sjogrens syndrome,2,2.718,0.779
+age,73,78.161,0.82
+sex,11,15.382,0.943
+Sex,3,13.212,0.999

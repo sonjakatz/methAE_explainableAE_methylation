@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Smoking,4,0.92,0.049
+Gene expression of Affymetrix ID: 3923257 (gene symbol: PDXK),1,0.116,0.116
+Pubertal timing,2,0.256,0.128
+CLIC5 protein levels (SeqId = 12475-48),1,0.227,0.209
+FGFBP1 protein levels (SeqId = 15494-11),1,0.228,0.215
+Sex,8,7.652,0.473
+Age,3,2.671,0.5
+age,69,69.331,0.558
+sex,8,8.868,0.687
+HIV infection,2,3.659,0.91

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,211,173.657,0.0
+IL2RB protein levels (SeqId = 9343-16),4,0.444,0.0
+Age,19,8.249,0.015
+birthweight,4,0.224,0.046
+HIV infection,16,11.236,0.084
+age*sex,3,1.761,0.261
+Ageing,5,3.767,0.329
+Rheumatoid arthritis,4,5.154,0.768
+Sex,11,17.879,0.908
+sex,13,22.21,0.996

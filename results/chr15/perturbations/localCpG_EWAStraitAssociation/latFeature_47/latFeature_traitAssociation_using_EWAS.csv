@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,52,19.609,0.0
+sex,38,24.706,0.0
+Ulcerative colitis,8,2.418,0.001
+Maternal smoking in pregnancy,6,0.496,0.001
+Maternal smoking during pregnancy,8,1.392,0.005
+age*sex,6,1.951,0.014
+Smoking,14,5.23,0.072
+Alcohol consumption,9,8.108,0.42
+age,191,194.277,0.64
+Primary Sjogrens syndrome,6,8.988,0.89

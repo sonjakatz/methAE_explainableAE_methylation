@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Age,26,9.155,0.0
+age*sex,13,3.27,0.0
+Alcohol consumption,18,6.361,0.004
+Sex,46,24.519,0.005
+Ulcerative colitis,7,2.311,0.01
+age,159,137.451,0.012
+Alcohol consumption per day,4,1.576,0.086
+Inflammatory bowel disease,5,3.445,0.268
+sex,25,22.092,0.269
+Smoking,6,4.528,0.328

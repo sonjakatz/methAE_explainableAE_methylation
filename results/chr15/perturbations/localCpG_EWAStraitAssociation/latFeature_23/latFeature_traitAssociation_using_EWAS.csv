@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Trunk area,2,0.08,0.001
+Papuan ancestry,4,0.948,0.021
+Rheumatoid arthritis,7,3.743,0.061
+schizophrenia,2,0.556,0.245
+Alcohol consumption,3,5.341,0.776
+HIV infection,6,7.985,0.829
+Age,3,5.842,0.89
+age,106,125.617,0.992
+Sex,2,13.007,0.998
+sex,6,15.991,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),6,1.876,0.009
+COL10A1 protein levels (SeqId = 15653-9),2,0.199,0.011
+Sex,24,15.113,0.044
+sex,24,18.171,0.06
+Liver fat,2,0.347,0.087
+Inflammatory bowel disease,3,1.306,0.134
+Crohn's disease,3,2.516,0.453
+age,86,91.753,0.827
+Age,2,4.684,0.916
+HIV infection,2,6.023,0.992

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+sex,34,20.737,0.0
+CRISP2 protein levels (SeqId = 9282-12),2,0.143,0.005
+Ulcerative colitis,3,1.359,0.134
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),2,0.777,0.18
+Inflammatory bowel disease,3,1.534,0.192
+Crohn's disease,3,1.935,0.314
+Sex,16,17.903,0.665
+HIV infection,4,6.548,0.921
+Age,3,6.62,0.945
+age,104,122.112,0.995

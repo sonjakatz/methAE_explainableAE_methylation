@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,9,2.517,0.0
+Maternal smoking in pregnancy,3,0.423,0.002
+Gene expression of Affymetrix ID: 3922037 (gene symbol: MX2),2,0.265,0.02
+sex,17,11.108,0.029
+Sex,16,9.563,0.037
+age*sex,2,1.558,0.493
+Crohn's disease,2,2.097,0.65
+age,82,87.345,0.821
+Age,2,3.251,0.829
+Inflammatory bowel disease,2,3.605,0.916

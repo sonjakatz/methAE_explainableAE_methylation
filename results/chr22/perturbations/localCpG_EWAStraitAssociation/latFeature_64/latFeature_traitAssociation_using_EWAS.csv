@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),4,0.725,0.006
+sex,25,21.075,0.167
+Alcohol consumption per day,2,1.018,0.272
+age*sex,2,2.098,0.625
+Sex,16,17.767,0.653
+HIV infection,6,6.543,0.666
+Smoking,2,3.97,0.687
+Alcohol consumption,3,6.343,0.858
+Age,4,6.789,0.909
+age,109,124.304,0.98

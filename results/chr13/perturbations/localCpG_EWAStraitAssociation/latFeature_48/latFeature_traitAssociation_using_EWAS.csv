@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,33,9.84,0.0
+CRISP2 protein levels (SeqId = 9282-12),8,3.773,0.03
+Crohn's disease,9,7.272,0.306
+Sex,43,38.98,0.336
+Smoking,9,9.737,0.538
+Alcohol consumption,10,12.115,0.678
+sex,44,47.054,0.73
+HIV infection,15,17.744,0.8
+Age,8,19.207,0.997
+age,284,323.736,0.999

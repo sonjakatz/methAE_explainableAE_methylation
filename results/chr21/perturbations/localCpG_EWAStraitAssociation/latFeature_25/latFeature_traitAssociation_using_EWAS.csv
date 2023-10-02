@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3935243 (gene symbol: LSS),2,0.196,0.005
+Aging,2,0.234,0.017
+Age,6,2.476,0.046
+MB protein levels (SeqId = 3042-7),1,0.091,0.091
+Papuan ancestry,4,1.85,0.105
+Pubertal timing,2,0.248,0.124
+Smoking,3,0.901,0.151
+age,63,63.725,0.579
+sex,8,8.218,0.605
+Sex,4,7.069,0.895

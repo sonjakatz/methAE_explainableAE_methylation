@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3924144 (gene symbol: COL18A1),2,0.352,0.042
+MB protein levels (SeqId = 3042-7),1,0.086,0.086
+MAPK8 protein levels (SeqId = 3825-18),1,0.093,0.093
+DAP protein levels (SeqId = 19141-22),1,0.111,0.111
+Papuan ancestry,2,1.686,0.513
+age,58,58.154,0.542
+Age,2,2.139,0.601
+sex,7,7.483,0.657
+Inflammatory bowel disease,2,2.493,0.759
+Sex,2,6.46,0.977

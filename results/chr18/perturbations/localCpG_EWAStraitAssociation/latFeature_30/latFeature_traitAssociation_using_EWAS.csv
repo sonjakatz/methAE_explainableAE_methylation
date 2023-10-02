@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,6,1.142,0.0
+Cancer treatment: chest-RT,2,0.162,0.006
+CRISP2 protein levels (SeqId = 9282-12),4,1.594,0.062
+Crohn's disease,5,2.156,0.082
+Age,8,4.105,0.105
+Ulcerative colitis,3,1.271,0.126
+sex,17,15.956,0.426
+Sex,13,13.368,0.555
+Ageing,2,2.477,0.738
+age,71,81.272,0.95

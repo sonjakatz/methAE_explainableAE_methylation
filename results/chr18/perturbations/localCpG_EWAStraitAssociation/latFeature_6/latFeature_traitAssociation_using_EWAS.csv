@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,4,0.268,0.0
+Pancreatic cancer,1,0.067,0.067
+Road traffic noise pollution,1,0.083,0.083
+Crohn's disease,4,1.934,0.128
+Inflammatory bowel disease,2,0.979,0.262
+age*sex,1,0.595,0.453
+age,68,70.783,0.715
+HIV infection,4,4.694,0.725
+Sex,7,11.927,0.907
+sex,9,13.875,0.961

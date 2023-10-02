@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Crohn's disease,38,15.648,0.0
+Inflammatory bowel disease,18,9.094,0.007
+Sex,125,101.911,0.057
+Ageing,20,14.624,0.086
+GZMK protein levels (SeqId = 9545-156),11,7.032,0.087
+Ulcerative colitis,14,9.538,0.092
+age,680,663.541,0.204
+sex,104,98.139,0.262
+Age,25,42.934,0.998
+HIV infection,16,36.328,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),4,1.095,0.016
+Sex,39,24.769,0.019
+Ulcerative colitis,4,1.82,0.102
+Body mass index,8,2.736,0.129
+Inflammatory bowel disease,4,2.181,0.175
+sex,30,29.28,0.487
+Crohn's disease,3,2.814,0.545
+Primary Sjogrens syndrome,5,5.802,0.702
+Age,4,9.464,0.985
+age,152,173.144,0.996

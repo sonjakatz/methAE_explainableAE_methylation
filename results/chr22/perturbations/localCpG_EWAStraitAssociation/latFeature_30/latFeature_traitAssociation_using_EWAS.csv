@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Rheumatoid arthritis,6,1.39,0.0
+HIV infection,16,8.89,0.013
+Papuan ancestry,3,1.824,0.279
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),2,1.087,0.289
+sex,30,28.212,0.377
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),2,1.296,0.402
+Age,10,9.217,0.453
+Alcohol consumption,7,8.508,0.651
+Sex,22,23.896,0.652
+age,141,165.496,0.997

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,20,5.508,0.0
+Nitrogen dioxide exposure,8,1.634,0.0
+M32388_dodecanedioate,6,1.094,0.011
+Papuan ancestry,5,1.767,0.025
+age,173,157.789,0.044
+Age,11,8.005,0.232
+Alcohol consumption,8,6.107,0.343
+HIV infection,6,10.45,0.972
+sex,12,30.904,1.0
+Sex,8,26.446,1.0

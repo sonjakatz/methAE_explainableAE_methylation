@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3924783 (gene symbol: PRMT2),12,1.183,0.0
+Inflammatory bowel disease,12,2.148,0.0
+Gene expression of Affymetrix ID: 3924674 (gene symbol: DIP2A),5,0.614,0.0
+Maternal smoking in pregnancy,2,0.226,0.008
+Ulcerative colitis,4,1.013,0.013
+TMEM106B protein levels (SeqId = 8687-26),1,0.083,0.083
+Crohn's disease,3,1.304,0.121
+age,51,50.964,0.527
+Sex,4,5.641,0.761
+sex,5,6.553,0.836

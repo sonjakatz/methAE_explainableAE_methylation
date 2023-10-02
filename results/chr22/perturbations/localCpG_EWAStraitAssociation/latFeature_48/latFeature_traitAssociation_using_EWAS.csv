@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+birthweight,3,0.126,0.042
+CRISP2 protein levels (SeqId = 9282-12),1,0.111,0.109
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),2,0.597,0.124
+Age,6,4.722,0.34
+age*sex,2,1.495,0.443
+Alcohol consumption,4,4.257,0.523
+HIV infection,3,4.566,0.847
+age,77,85.846,0.94
+sex,9,14.751,0.979
+Sex,3,12.459,0.998

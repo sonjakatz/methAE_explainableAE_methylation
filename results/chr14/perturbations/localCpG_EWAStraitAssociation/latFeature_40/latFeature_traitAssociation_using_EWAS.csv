@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,22,8.49,0.0
+IL2RB protein levels (SeqId = 9343-16),2,0.764,0.172
+Rheumatoid arthritis,6,4.435,0.282
+age*sex,3,1.892,0.284
+Ulcerative colitis,2,1.329,0.378
+sex,18,17.59,0.503
+Sex,13,15.269,0.661
+Ageing,3,3.451,0.683
+Nitrogen dioxide exposure,2,2.393,0.705
+age,110,154.645,1.0

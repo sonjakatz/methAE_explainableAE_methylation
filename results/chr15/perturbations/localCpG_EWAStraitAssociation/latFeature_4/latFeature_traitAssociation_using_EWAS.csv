@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Crohn's disease,13,3.995,0.0
+Papuan ancestry,9,1.439,0.0
+Maternal smoking in pregnancy,6,0.553,0.0
+Maternal smoking during pregnancy,8,1.486,0.001
+age*sex,6,2.046,0.013
+Inflammatory bowel disease,7,2.658,0.021
+Smoking,18,5.251,0.037
+Sex,32,20.763,0.069
+sex,28,25.44,0.307
+age,187,200.432,0.908

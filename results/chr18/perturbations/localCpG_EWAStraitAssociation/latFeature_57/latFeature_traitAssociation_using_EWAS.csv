@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,34,18.845,0.003
+sex,32,22.328,0.008
+M32388_dodecanedioate,4,0.796,0.046
+CRISP2 protein levels (SeqId = 9282-12),5,2.26,0.07
+Ulcerative colitis,4,1.81,0.095
+Inflammatory bowel disease,3,1.636,0.217
+Crohn's disease,3,3.003,0.577
+Alcohol consumption,3,4.357,0.702
+age,101,113.012,0.953
+HIV infection,4,7.548,0.959

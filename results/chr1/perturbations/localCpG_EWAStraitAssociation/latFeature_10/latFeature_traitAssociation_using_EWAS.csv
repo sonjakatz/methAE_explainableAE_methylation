@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Crohn's disease,37,9.175,0.0
+Inflammatory bowel disease,26,5.26,0.0
+Ulcerative colitis,19,5.591,0.0
+Papuan ancestry,17,5.744,0.0
+Gene expression of Affymetrix ID: 2427208 (gene symbol: GSTM3),8,0.249,0.0
+Alcohol consumption,9,22.22,0.987
+age,341,390.784,1.0
+Sex,28,59.823,1.0
+sex,21,57.297,1.0
+Age,9,25.393,1.0

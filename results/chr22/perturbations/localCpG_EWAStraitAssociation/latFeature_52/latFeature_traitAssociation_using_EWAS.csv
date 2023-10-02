@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),4,0.731,0.004
+Aging,3,0.875,0.042
+Age,11,6.217,0.046
+Ulcerative colitis,3,1.21,0.105
+Papuan ancestry,3,1.214,0.105
+Ageing,3,1.703,0.245
+HIV infection,5,6.005,0.745
+Sex,12,16.279,0.838
+age,103,112.73,0.911
+sex,12,19.235,0.986

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,74,23.922,0.0
+sex,49,29.965,0.0
+Maternal smoking during pregnancy,7,1.92,0.024
+Schizophrenia,8,2.49,0.032
+Crohn's disease,9,4.772,0.052
+Ulcerative colitis,6,2.929,0.073
+Inflammatory bowel disease,6,3.046,0.081
+HIV infection,11,14.91,0.906
+Primary Sjogrens syndrome,6,11.072,0.968
+age,197,234.693,1.0

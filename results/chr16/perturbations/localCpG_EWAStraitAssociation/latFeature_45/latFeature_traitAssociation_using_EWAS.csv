@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+sex,52,36.407,0.002
+Sex,62,37.127,0.004
+HIV infection,29,20.312,0.023
+Inflammatory bowel disease,6,3.582,0.152
+Rheumatoid arthritis,9,7.742,0.378
+Nitrogen dioxide exposure,6,5.319,0.447
+Age,17,16.85,0.491
+Alcohol consumption,13,12.793,0.491
+Primary Sjogrens syndrome,8,11.027,0.872
+age,292,326.138,0.993

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,6,3.028,0.077
+Schizophrenia,5,1.991,0.078
+Primary Sjogrens syndrome,10,6.391,0.086
+Smoking,11,6.258,0.162
+HIV infection,15,11.732,0.191
+Crohn's disease,6,4.73,0.327
+Age,9,12.288,0.845
+age,162,211.215,1.0
+sex,15,30.593,1.0
+Sex,7,25.254,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Serum triglycerides,2,0.026,0.013
+Ulcerative colitis,3,0.755,0.036
+Alcohol consumption per day,3,0.907,0.085
+Sex,12,8.355,0.212
+Alcohol consumption,4,2.701,0.33
+Crohn's disease,2,1.386,0.388
+Age,4,3.704,0.487
+sex,7,8.083,0.722
+HIV infection,3,4.557,0.857
+age,63,71.015,0.922

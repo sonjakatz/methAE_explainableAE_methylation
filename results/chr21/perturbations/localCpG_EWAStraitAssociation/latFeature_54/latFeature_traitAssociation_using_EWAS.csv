@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Maternal smoking in pregnancy,3,0.25,0.0
+age*sex,3,0.887,0.059
+Gene expression of Affymetrix ID: 3922793 (gene symbol: PDE9A),1,0.081,0.081
+CBS protein levels (SeqId = 10086-39),1,0.085,0.085
+Arsenic exposure,1,0.157,0.151
+Sex,9,5.832,0.162
+age,56,53.225,0.329
+Ulcerative colitis,1,1.001,0.639
+Inflammatory bowel disease,2,2.165,0.679
+sex,6,6.891,0.734

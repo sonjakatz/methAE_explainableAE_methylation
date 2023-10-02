@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,84,35.432,0.0
+sex,56,35.318,0.0
+age*sex,10,4.102,0.007
+Alcohol consumption per day,7,3.884,0.103
+Ulcerative colitis,6,3.245,0.104
+Alcohol consumption,14,12.625,0.405
+HIV infection,20,19.785,0.512
+Rheumatoid arthritis,7,7.537,0.622
+Age,14,16.317,0.729
+age,280,313.882,0.998

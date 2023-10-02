@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Aging,5,1.053,0.001
+CRISP2 protein levels (SeqId = 9282-12),2,0.142,0.006
+Age,12,7.08,0.062
+birthweight,3,0.213,0.071
+Smoking,13,4.368,0.077
+age,129,131.198,0.648
+HIV infection,6,7.101,0.715
+sex,20,22.516,0.79
+Alcohol consumption,3,6.779,0.881
+Sex,13,19.038,0.903

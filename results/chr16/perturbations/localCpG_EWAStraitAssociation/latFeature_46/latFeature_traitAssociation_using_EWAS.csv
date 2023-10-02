@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Autoantibody production in systemic lupus erythematosus,4,0.227,0.049
+Ageing,5,3.039,0.183
+Rheumatoid arthritis,6,3.888,0.194
+Crohn's disease,4,3.172,0.391
+HIV infection,11,10.316,0.442
+Age,9,8.48,0.469
+sex,18,18.142,0.546
+Alcohol consumption,4,6.371,0.754
+Sex,13,18.64,0.849
+age,131,163.398,0.999

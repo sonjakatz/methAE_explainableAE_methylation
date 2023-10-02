@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Age,13,3.577,0.004
+Crohn's disease,6,1.945,0.013
+Aging,2,0.281,0.032
+Papuan ancestry,3,0.811,0.037
+age,80,72.669,0.142
+CRISP2 protein levels (SeqId = 9282-12),2,1.463,0.445
+Sex,12,12.016,0.503
+Ageing,2,2.222,0.674
+sex,13,14.346,0.72
+Primary Sjogrens syndrome,2,2.531,0.735

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3503164 (gene symbol: CDC16),4,0.505,0.001
+Papuan ancestry,7,2.223,0.004
+birthweight,3,0.117,0.039
+Pubertal timing,4,0.481,0.069
+Inflammatory bowel disease,5,2.739,0.129
+Crohn's disease,5,3.509,0.284
+Ulcerative colitis,3,2.137,0.369
+HIV infection,7,8.718,0.784
+age,126,158.212,0.999
+sex,9,23.021,0.999

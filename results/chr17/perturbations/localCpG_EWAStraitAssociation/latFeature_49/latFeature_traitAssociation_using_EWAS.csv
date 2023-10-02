@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+DES protein levels (SeqId = 12030-82),2,0.067,0.0
+age,134,117.882,0.03
+Crohn's disease,6,2.181,0.044
+Ageing,4,2.087,0.172
+sex,14,13.006,0.431
+Rheumatoid arthritis,4,3.786,0.537
+Primary Sjogrens syndrome,3,3.948,0.752
+Age,4,6.267,0.826
+HIV infection,4,6.686,0.898
+Sex,5,12.654,0.968

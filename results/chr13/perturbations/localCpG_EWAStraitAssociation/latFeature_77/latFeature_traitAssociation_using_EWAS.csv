@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+sex,61,39.922,0.0
+CRISP2 protein levels (SeqId = 9282-12),20,3.203,0.0
+Crohn's disease,16,6.17,0.0
+Gene expression of Affymetrix ID: 3503164 (gene symbol: CDC16),4,0.857,0.006
+Inflammatory bowel disease,10,4.599,0.014
+Papuan ancestry,9,3.915,0.019
+Sex,49,32.724,0.023
+Ulcerative colitis,8,3.644,0.03
+HIV infection,10,15.235,0.959
+age,210,275.474,1.0

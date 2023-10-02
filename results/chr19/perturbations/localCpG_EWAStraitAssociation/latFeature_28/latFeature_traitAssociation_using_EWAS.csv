@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Nitrogen dioxide exposure,9,4.531,0.028
+Sex,71,53.091,0.047
+Smoking,22,10.987,0.076
+sex,55,49.145,0.181
+Papuan ancestry,7,5.026,0.239
+Alcohol consumption,16,16.592,0.548
+HIV infection,28,28.775,0.584
+Rheumatoid arthritis,9,9.944,0.675
+Age,17,20.566,0.794
+age,358,393.021,0.99

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),8,0.769,0.0
+Serum high-density lipoprotein cholesterol,3,0.21,0.07
+Smoking,11,4.034,0.129
+Pubertal timing,2,0.282,0.135
+Body mass index,5,1.908,0.195
+Age,8,6.405,0.324
+sex,19,20.03,0.646
+age,113,118.848,0.804
+Sex,12,17.055,0.866
+Alcohol consumption,2,6.136,0.904

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,4,0.41,0.0
+sex,32,21.814,0.003
+Sex,34,18.702,0.005
+Alcohol consumption,7,4.369,0.221
+age*sex,2,0.974,0.26
+Crohn's disease,4,2.96,0.351
+age,110,111.604,0.611
+Rheumatoid arthritis,2,2.008,0.626
+CRISP2 protein levels (SeqId = 9282-12),2,2.261,0.685
+HIV infection,3,7.446,0.985

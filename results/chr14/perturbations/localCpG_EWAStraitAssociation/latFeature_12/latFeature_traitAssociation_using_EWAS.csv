@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,8,2.941,0.006
+Rheumatoid arthritis,12,5.877,0.012
+HIV infection,17,11.082,0.029
+Total serum IgE,2,0.11,0.055
+Crohn's disease,5,2.316,0.087
+Alcohol consumption,5,4.296,0.433
+sex,21,22.877,0.709
+Sex,11,19.768,0.934
+Primary Sjogrens syndrome,3,9.835,0.998
+age,161,200.937,1.0

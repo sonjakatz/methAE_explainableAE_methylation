@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,15,6.034,0.0
+PAPPA protein levels (SeqId = 4148-49),5,0.571,0.0
+Papuan ancestry,7,2.406,0.008
+Ulcerative colitis,7,2.778,0.013
+Nitrogen dioxide exposure,5,2.247,0.07
+Inflammatory bowel disease,6,3.903,0.186
+Crohn's disease,9,7.051,0.265
+Age,5,10.515,0.978
+age,136,162.557,0.998
+sex,12,25.998,1.0

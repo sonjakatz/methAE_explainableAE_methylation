@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,208,49.99,0.0
+sex,118,46.525,0.0
+age*sex,22,7.207,0.0
+Pubertal timing,9,0.699,0.0
+Alcohol consumption,32,15.526,0.007
+age,383,371.149,0.234
+Smoking,10,10.635,0.495
+Crohn's disease,7,7.262,0.572
+Age,10,19.316,0.983
+HIV infection,16,27.04,0.999

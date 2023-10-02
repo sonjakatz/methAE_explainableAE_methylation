@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Maternal smoking in pregnancy,7,0.667,0.0
+Maternal smoking during pregnancy,7,1.768,0.023
+Primary Sjogrens syndrome,16,10.642,0.058
+Smoking,14,6.129,0.078
+Sex,34,23.23,0.08
+HIV infection,18,15.134,0.253
+age,227,229.106,0.59
+sex,28,29.22,0.64
+Rheumatoid arthritis,6,6.871,0.707
+Age,8,10.843,0.795

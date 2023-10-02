@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3922037 (gene symbol: MX2),2,0.244,0.013
+Crohn's disease,4,1.842,0.093
+Trajectories of social communication deficits,1,0.114,0.114
+FIG4 protein levels (SeqId = 6948-82),1,0.232,0.224
+COL6A1 protein levels (SeqId = 16828-8),1,0.256,0.243
+Sex,11,8.857,0.299
+sex,11,10.034,0.402
+Papuan ancestry,3,2.236,0.405
+Inflammatory bowel disease,4,3.266,0.419
+age,65,78.151,0.987

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),8,1.735,0.0
+Frontotemporal dementia,3,0.336,0.002
+Sex,27,14.739,0.007
+Age,6,4.396,0.29
+Ulcerative colitis,2,1.376,0.415
+Alcohol consumption,4,3.36,0.441
+sex,18,17.493,0.489
+HIV infection,6,5.92,0.544
+Crohn's disease,2,2.347,0.691
+age,78,88.46,0.935

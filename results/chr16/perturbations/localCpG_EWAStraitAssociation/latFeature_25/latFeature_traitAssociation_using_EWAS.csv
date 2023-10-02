@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,599,503.718,0.0
+Sex,101,57.194,0.0
+Age,61,26.244,0.0
+Primary Sjogrens syndrome,31,17.029,0.0
+age*sex,15,6.446,0.002
+sex,70,56.098,0.023
+Crohn's disease,17,9.99,0.042
+Ageing,13,9.086,0.117
+Alcohol consumption,21,19.748,0.421
+HIV infection,31,31.422,0.551

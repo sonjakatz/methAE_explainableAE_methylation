@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+NID2 protein levels (SeqId = 16060-99),3,0.138,0.0
+HP protein levels (SeqId = 7905-30),2,0.056,0.003
+Papuan ancestry,4,1.587,0.069
+Nitrogen dioxide exposure,4,1.733,0.085
+Ulcerative colitis,2,0.959,0.25
+Ageing,3,2.547,0.482
+sex,13,12.808,0.53
+Sex,6,10.823,0.872
+Age,3,5.267,0.89
+age,103,114.597,0.939

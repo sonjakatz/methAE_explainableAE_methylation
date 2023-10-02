@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),9,1.062,0.0
+Papuan ancestry,5,1.631,0.019
+sex,34,26.111,0.028
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),4,1.197,0.031
+Cleft palate vs cleft lip,3,0.848,0.044
+Sex,28,22.447,0.194
+Age,11,8.384,0.248
+Body mass index,3,2.68,0.316
+age,154,152.668,0.454
+HIV infection,3,8.207,0.993

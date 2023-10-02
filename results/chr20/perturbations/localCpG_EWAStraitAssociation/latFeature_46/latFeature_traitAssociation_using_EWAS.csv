@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,12,5.16,0.002
+Sex,52,36.872,0.038
+age*sex,9,4.974,0.049
+Alcohol consumption,18,9.747,0.059
+Crohn's disease,14,9.038,0.072
+age,219,207.819,0.169
+Primary Sjogrens syndrome,10,7.729,0.224
+Age,11,13.658,0.783
+sex,29,33.584,0.864
+HIV infection,8,11.073,0.897

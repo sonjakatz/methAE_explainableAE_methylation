@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+PGK1 protein levels (SeqId = 5020-50),2,0.141,0.007
+sex,23,16.225,0.025
+IL2RB protein levels (SeqId = 9343-16),2,0.763,0.169
+CRISP2 protein levels (SeqId = 9282-12),3,1.645,0.227
+HIV infection,7,5.579,0.32
+Crohn's disease,3,2.199,0.382
+Rheumatoid arthritis,2,1.507,0.449
+age,84,83.132,0.464
+Age,4,4.109,0.519
+Sex,12,13.928,0.665

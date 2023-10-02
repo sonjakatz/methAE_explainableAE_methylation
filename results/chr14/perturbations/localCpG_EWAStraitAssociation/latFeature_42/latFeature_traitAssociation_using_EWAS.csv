@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,30,15.207,0.001
+Primary Sjogrens syndrome,25,13.611,0.002
+Rheumatoid arthritis,16,7.991,0.007
+Papuan ancestry,8,3.899,0.035
+Nitrogen dioxide exposure,6,4.278,0.263
+Smoking,10,8.174,0.344
+Age,7,12.782,0.967
+sex,18,31.015,0.999
+age,221,279.346,1.0
+Sex,8,26.769,1.0

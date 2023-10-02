@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,14,3.687,0.0
+Serum triglycerides,2,0.106,0.024
+Schizophrenia,4,1.409,0.119
+Rheumatoid arthritis,5,3.566,0.284
+Alcohol consumption,6,4.467,0.326
+sex,13,12.346,0.454
+Crohn's disease,2,2.088,0.583
+Age,4,5.906,0.807
+HIV infection,4,6.58,0.898
+age,80,112.397,1.0

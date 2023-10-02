@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Frontotemporal dementia,4,0.388,0.0
+Inflammatory bowel disease,4,1.43,0.049
+Crohn's disease,6,2.698,0.051
+age,106,99.0,0.2
+Schizophrenia,2,1.2,0.412
+Ageing,3,3.202,0.637
+Sex,13,16.594,0.799
+Age,3,4.899,0.83
+sex,14,19.404,0.962
+HIV infection,3,6.626,0.972

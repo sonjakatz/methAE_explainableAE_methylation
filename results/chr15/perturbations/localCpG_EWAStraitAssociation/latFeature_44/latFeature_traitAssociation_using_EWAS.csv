@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Age,23,9.639,0.001
+age,226,208.303,0.047
+Primary Sjogrens syndrome,15,9.768,0.067
+Ageing,8,4.501,0.072
+Smoking,9,5.798,0.209
+Rheumatoid arthritis,7,6.199,0.416
+Alcohol consumption,9,8.553,0.476
+HIV infection,11,13.672,0.828
+sex,21,26.474,0.914
+Sex,13,21.485,0.919

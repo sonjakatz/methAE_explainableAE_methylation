@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,593,510.626,0.0
+Age,102,26.345,0.0
+Primary Sjogrens syndrome,70,17.009,0.0
+Smoking,51,12.36,0.0
+M00054_tryptophan,18,2.454,0.0
+Aging,18,2.953,0.0
+Alcohol consumption,40,20.203,0.006
+Sex,74,58.342,0.074
+sex,55,57.04,0.661
+HIV infection,23,31.874,0.962

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,53,30.614,0.001
+Papuan ancestry,18,10.497,0.016
+Inflammatory bowel disease,14,9.778,0.105
+Nitrogen dioxide exposure,16,11.661,0.108
+Crohn's disease,23,16.944,0.109
+age,716,718.153,0.55
+HIV infection,28,39.343,0.988
+Age,26,47.054,0.998
+sex,79,105.863,0.999
+Sex,58,110.111,1.0

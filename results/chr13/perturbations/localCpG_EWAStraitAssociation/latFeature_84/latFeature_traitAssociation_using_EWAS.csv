@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+SERPINB13 protein levels (SeqId = 18841-1),2,0.09,0.002
+SERPINA10 protein levels (SeqId = 13119-26),2,0.133,0.005
+Gene expression of Affymetrix ID: 3503164 (gene symbol: CDC16),3,0.388,0.006
+Papuan ancestry,4,1.698,0.094
+Inflammatory bowel disease,4,2.031,0.141
+Crohn's disease,4,2.679,0.289
+sex,11,17.723,0.978
+Sex,5,14.481,0.989
+HIV infection,2,6.799,0.995
+age,84,120.683,1.0

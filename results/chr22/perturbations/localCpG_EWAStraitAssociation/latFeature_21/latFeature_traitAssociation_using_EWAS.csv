@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+sex,49,34.843,0.0
+Sex,47,29.683,0.003
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),5,1.58,0.018
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),4,1.342,0.036
+age,217,204.81,0.123
+Age,15,11.253,0.157
+Ageing,5,3.227,0.216
+HIV infection,10,10.883,0.663
+Alcohol consumption,7,10.626,0.816
+Primary Sjogrens syndrome,5,6.841,0.839

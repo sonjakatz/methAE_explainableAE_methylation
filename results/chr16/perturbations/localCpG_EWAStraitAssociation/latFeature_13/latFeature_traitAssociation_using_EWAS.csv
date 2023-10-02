@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Total serum IgE,6,0.144,0.0
+Acute myocardial infarction,2,0.048,0.024
+Inflammatory bowel disease,4,1.176,0.026
+Crohn's disease,5,1.97,0.062
+HIV infection,10,6.295,0.08
+Ulcerative colitis,3,1.022,0.084
+Sex,9,11.388,0.712
+Age,4,5.216,0.724
+sex,10,11.412,0.73
+age,86,101.341,0.984

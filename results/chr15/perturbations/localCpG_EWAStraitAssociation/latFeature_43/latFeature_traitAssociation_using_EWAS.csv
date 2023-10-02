@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Body mass index,5,0.705,0.022
+Rheumatoid arthritis,6,3.199,0.097
+HIV infection,10,6.816,0.149
+Ulcerative colitis,3,1.321,0.149
+Smoking,4,2.982,0.271
+Nitrogen dioxide exposure,2,1.275,0.363
+Primary Sjogrens syndrome,5,5.126,0.592
+Alcohol consumption,3,4.255,0.691
+sex,7,13.462,0.988
+age,90,106.122,0.992

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,8,2.008,0.002
+Crohn's disease,9,3.131,0.004
+Papuan ancestry,4,1.139,0.028
+HIV infection,15,10.135,0.08
+Nitrogen dioxide exposure,4,1.87,0.111
+Rheumatoid arthritis,7,4.682,0.184
+Schizophrenia,4,1.73,0.193
+sex,13,19.674,0.972
+Sex,5,15.755,0.99
+age,130,155.271,0.996

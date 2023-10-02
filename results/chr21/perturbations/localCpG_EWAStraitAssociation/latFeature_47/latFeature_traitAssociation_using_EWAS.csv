@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,13,6.234,0.029
+Gene expression of Affymetrix ID: 3934245 (gene symbol: CSTB),1,0.087,0.087
+Head circumference,1,0.09,0.09
+F10 protein levels (SeqId = 3077-66),1,0.095,0.095
+Smoking,2,0.726,0.199
+Papuan ancestry,3,1.617,0.209
+sex,8,7.167,0.443
+age,54,56.154,0.685
+Inflammatory bowel disease,2,2.36,0.718
+HIV infection,2,3.024,0.833

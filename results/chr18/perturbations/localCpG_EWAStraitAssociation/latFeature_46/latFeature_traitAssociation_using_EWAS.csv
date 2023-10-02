@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+M32388_dodecanedioate,4,0.48,0.016
+Papuan ancestry,3,0.666,0.026
+Inflammatory bowel disease,3,0.895,0.046
+Hip Ward's Triangle bone mineral density,1,0.071,0.071
+Nitrogen dioxide exposure,2,0.661,0.141
+Primary Sjogrens syndrome,4,2.16,0.142
+Crohn's disease,3,1.647,0.235
+age,58,60.204,0.661
+Sex,6,9.944,0.886
+sex,8,11.908,0.956

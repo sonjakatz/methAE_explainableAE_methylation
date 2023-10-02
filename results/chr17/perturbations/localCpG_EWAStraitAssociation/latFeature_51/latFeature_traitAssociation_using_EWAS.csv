@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Age,37,22.336,0.009
+Alcohol consumption per day,11,5.129,0.011
+Alcohol consumption,32,16.483,0.016
+Smoking,22,11.573,0.078
+Crohn's disease,13,8.144,0.093
+Sex,55,45.143,0.152
+sex,51,46.558,0.258
+Ageing,8,7.512,0.477
+age,419,424.3,0.642
+HIV infection,18,24.583,0.953

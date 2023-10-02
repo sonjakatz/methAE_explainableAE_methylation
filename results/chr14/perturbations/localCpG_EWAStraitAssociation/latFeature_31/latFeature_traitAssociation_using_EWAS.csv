@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,7,1.553,0.002
+Papuan ancestry,7,2.301,0.016
+Ageing,6,3.655,0.155
+Nitrogen dioxide exposure,2,2.459,0.718
+Rheumatoid arthritis,3,4.756,0.859
+Sex,7,15.955,0.97
+sex,12,18.285,0.984
+Age,3,7.607,0.984
+age,133,164.417,0.998
+HIV infection,2,9.044,0.999

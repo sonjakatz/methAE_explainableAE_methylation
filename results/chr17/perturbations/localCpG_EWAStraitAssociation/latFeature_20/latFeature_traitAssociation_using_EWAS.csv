@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,78,41.774,0.0
+sex,66,42.842,0.0
+Primary Sjogrens syndrome,35,13.08,0.0
+Pubertal timing,14,1.781,0.0
+Ulcerative colitis,12,3.279,0.0
+Ageing,16,6.965,0.004
+Age,32,19.917,0.014
+age,418,386.286,0.026
+Alcohol consumption,17,15.374,0.399
+HIV infection,14,22.486,0.981

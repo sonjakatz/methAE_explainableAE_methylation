@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+NID2 protein levels (SeqId = 16060-99),2,0.104,0.007
+psychosis,2,0.038,0.019
+Schizophrenia,3,0.737,0.056
+Crohn's disease,3,1.02,0.082
+Papuan ancestry,2,1.2,0.346
+Rheumatoid arthritis,3,2.404,0.431
+HIV infection,5,4.648,0.489
+sex,6,9.516,0.936
+Primary Sjogrens syndrome,2,4.325,0.94
+age,70,85.428,0.987

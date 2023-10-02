@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+M32388_dodecanedioate,9,1.171,0.0
+Nitrogen dioxide exposure,10,2.944,0.003
+Papuan ancestry,6,1.765,0.009
+Primary Sjogrens syndrome,17,11.436,0.063
+Rheumatoid arthritis,10,7.302,0.188
+Crohn's disease,6,4.975,0.389
+HIV infection,15,15.63,0.598
+sex,27,30.757,0.812
+Sex,17,24.529,0.868
+age,222,242.097,0.965

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,143,107.533,0.0
+Primary Sjogrens syndrome,18,2.491,0.0
+Educational attainment,4,0.218,0.013
+Nitrogen dioxide exposure,4,1.251,0.035
+gestational age,3,0.685,0.035
+Smoking,13,3.366,0.045
+Age,8,5.622,0.219
+HIV infection,9,7.847,0.363
+Sex,10,14.185,0.795
+sex,8,13.586,0.98

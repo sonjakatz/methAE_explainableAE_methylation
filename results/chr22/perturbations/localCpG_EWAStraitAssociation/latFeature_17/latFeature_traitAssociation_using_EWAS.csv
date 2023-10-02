@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,42,19.184,0.0
+sex,37,22.457,0.0
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),5,0.905,0.0
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),4,1.074,0.023
+Cleft palate vs cleft lip,3,0.786,0.036
+Alcohol consumption per day,2,1.069,0.293
+Age,7,7.314,0.601
+Alcohol consumption,3,6.794,0.87
+HIV infection,4,7.106,0.942
+age,114,131.346,0.987

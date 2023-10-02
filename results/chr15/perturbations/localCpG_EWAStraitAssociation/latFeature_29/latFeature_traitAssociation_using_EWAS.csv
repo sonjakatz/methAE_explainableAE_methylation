@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,29,17.828,0.004
+Papuan ancestry,7,2.003,0.004
+Primary Sjogrens syndrome,17,12.863,0.154
+Alcohol consumption,16,11.526,0.179
+Schizophrenia,6,3.176,0.194
+Smoking,6,7.259,0.533
+Sex,24,27.777,0.683
+Rheumatoid arthritis,6,8.334,0.848
+sex,23,34.799,0.996
+age,230,272.881,1.0

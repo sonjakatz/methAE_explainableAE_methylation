@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,10,1.616,0.0
+Gene expression of Affymetrix ID: 3558145 (gene symbol: CIDEB),4,0.348,0.0
+Crohn's disease,7,1.975,0.005
+Papuan ancestry,6,2.493,0.04
+Sex,26,16.697,0.071
+Nitrogen dioxide exposure,5,2.672,0.136
+sex,24,19.637,0.162
+Primary Sjogrens syndrome,9,8.689,0.491
+age,164,176.108,0.892
+HIV infection,6,9.504,0.93

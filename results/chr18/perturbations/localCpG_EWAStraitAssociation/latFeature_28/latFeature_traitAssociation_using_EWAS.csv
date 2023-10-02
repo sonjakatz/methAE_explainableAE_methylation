@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,4,0.286,0.0
+Aggressive behaviour,1,0.072,0.072
+Total cholesterol in HDL2,1,0.081,0.081
+Crohn's disease,2,1.926,0.564
+Sex,11,11.978,0.598
+Inflammatory bowel disease,1,1.018,0.649
+sex,11,14.261,0.898
+age,63,72.371,0.947
+HIV infection,2,4.832,0.955
+Age,1,3.641,0.958

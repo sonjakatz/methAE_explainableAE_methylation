@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,32,7.392,0.0
+Nitrogen dioxide exposure,9,2.769,0.0
+M32388_dodecanedioate,7,1.444,0.004
+Age,12,13.323,0.655
+Alcohol consumption,6,9.505,0.796
+Crohn's disease,7,8.914,0.803
+age,192,201.339,0.816
+HIV infection,8,10.846,0.877
+sex,26,32.213,0.932
+Sex,17,35.698,0.998

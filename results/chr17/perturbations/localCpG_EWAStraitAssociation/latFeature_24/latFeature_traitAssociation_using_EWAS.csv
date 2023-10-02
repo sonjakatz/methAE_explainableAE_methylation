@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,9,3.525,0.006
+HIV infection,29,23.334,0.135
+Crohn's disease,11,7.482,0.172
+Rheumatoid arthritis,14,12.73,0.388
+Smoking,9,11.207,0.588
+sex,39,44.268,0.834
+Primary Sjogrens syndrome,10,13.591,0.892
+Sex,30,43.339,0.935
+age,373,401.022,0.964
+Age,12,20.77,0.982

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Aggressive behaviour,1,0.078,0.078
+Total cholesterol in HDL2,1,0.081,0.081
+Liver fat,1,0.33,0.213
+Inflammatory bowel disease,2,1.318,0.373
+Crohn's disease,3,2.341,0.413
+Papuan ancestry,1,1.009,0.635
+sex,14,17.409,0.875
+age,76,88.529,0.971
+Sex,7,14.675,0.976
+HIV infection,2,5.876,0.985

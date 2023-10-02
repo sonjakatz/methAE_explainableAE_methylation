@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,14,4.38,0.001
+Ulcerative colitis,10,3.061,0.001
+IL2RB protein levels (SeqId = 9343-16),5,1.188,0.004
+Sex,47,30.783,0.017
+Ageing,8,4.465,0.062
+Crohn's disease,11,7.718,0.154
+sex,33,28.283,0.158
+age*sex,6,4.206,0.239
+age,183,176.341,0.29
+HIV infection,10,9.359,0.451

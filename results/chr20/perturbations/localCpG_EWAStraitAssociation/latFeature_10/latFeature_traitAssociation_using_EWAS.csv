@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+gestational age,9,2.226,0.0
+Crohn's disease,13,9.213,0.13
+age*sex,7,4.952,0.226
+age,219,210.794,0.243
+Smoking,8,6.821,0.396
+Alcohol consumption,10,9.607,0.485
+Age,14,14.211,0.539
+HIV infection,9,11.057,0.792
+Sex,30,37.154,0.823
+sex,25,33.82,0.985

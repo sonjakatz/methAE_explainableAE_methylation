@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIST3H2A protein levels (SeqId = 14144-3),1,0.018,0.018
+sex,11,6.495,0.041
+birthweight,1,0.101,0.061
+Sex,9,5.603,0.188
+Rheumatoid arthritis,3,1.674,0.236
+HIV infection,4,3.233,0.407
+Crohn's disease,1,0.684,0.48
+Papuan ancestry,1,0.837,0.591
+Age,1,2.706,0.927
+age,44,58.522,0.994

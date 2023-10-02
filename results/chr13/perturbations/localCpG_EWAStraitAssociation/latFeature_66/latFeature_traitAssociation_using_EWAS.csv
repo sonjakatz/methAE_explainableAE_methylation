@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),11,2.452,0.0
+GZMK protein levels (SeqId = 9545-156),6,1.586,0.001
+sex,41,30.22,0.013
+Sex,39,24.91,0.03
+Inflammatory bowel disease,7,3.506,0.048
+Ageing,9,5.269,0.067
+Crohn's disease,7,4.751,0.203
+age,197,207.743,0.865
+HIV infection,8,11.588,0.915
+Age,7,12.145,0.949

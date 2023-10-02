@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),7,0.88,0.0
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),6,1.091,0.0
+HIV infection,16,7.786,0.002
+Rheumatoid arthritis,4,1.175,0.026
+Sex,29,20.941,0.097
+Inflammatory bowel disease,3,1.844,0.292
+sex,26,24.682,0.431
+Alcohol consumption,6,7.397,0.645
+Age,7,8.11,0.691
+age,111,143.886,1.0

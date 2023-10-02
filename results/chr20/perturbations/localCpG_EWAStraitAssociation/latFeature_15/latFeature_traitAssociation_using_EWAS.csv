@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,5,2.152,0.06
+Crohn's disease,10,6.323,0.101
+Inflammatory bowel disease,6,3.567,0.123
+Nitrogen dioxide exposure,3,1.886,0.282
+Primary Sjogrens syndrome,7,5.28,0.292
+Ulcerative colitis,3,2.487,0.457
+Ageing,4,3.566,0.502
+sex,18,22.966,0.92
+age,129,142.826,0.935
+Sex,11,25.229,0.992

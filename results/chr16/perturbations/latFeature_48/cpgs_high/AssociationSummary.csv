@@ -1,0 +1,16 @@
+index,count,pval,context
+Body,16/36,0.016519616529330348,relativeGene
+TSS1500,5/36,0.3779291113901925,relativeGene
+5'UTR,2/36,0.4912985376785209,relativeGene
+Promoter_Associated,1/36,0.9999999999993165,regulatoryFeature
+Unclassified_Cell_type_specific,5/36,0.91406288759176,regulatoryFeature
+NonGene_Associated,1/36,0.2476475224637632,regulatoryFeature
+N_Shelf,1/36,0.950850704740586,relativeIsland
+Island,3/36,0.9999999758082587,relativeIsland
+S_Shore,3/36,0.9404730240185133,relativeIsland
+N_Shore,4/36,0.9523145899263303,relativeIsland
+S_Shelf,2/36,0.7429780382056211,relativeIsland
+True,1/36,0.9911940185040549,DHS
+False,35/36,0.05334364880856536,DHS
+True,12/36,0.06039485806001992,Enhancer
+False,24/36,0.9724807048934598,Enhancer

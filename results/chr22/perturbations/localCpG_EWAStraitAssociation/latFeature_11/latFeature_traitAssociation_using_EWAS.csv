@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3965102 (gene symbol: C22orf34),3,0.407,0.005
+Ulcerative colitis,5,1.723,0.032
+Alcohol consumption per day,3,1.237,0.148
+Crohn's disease,3,2.46,0.453
+age,149,155.33,0.781
+Sex,18,22.551,0.816
+HIV infection,6,8.217,0.853
+Primary Sjogrens syndrome,3,5.186,0.908
+sex,19,26.589,0.965
+Age,4,8.465,0.969

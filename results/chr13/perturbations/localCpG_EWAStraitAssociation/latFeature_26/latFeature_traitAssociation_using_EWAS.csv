@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+CRISP2 protein levels (SeqId = 9282-12),20,2.767,0.0
+Crohn's disease,16,5.124,0.0
+Ulcerative colitis,11,3.071,0.0
+Inflammatory bowel disease,11,3.926,0.002
+sex,37,33.927,0.281
+Sex,23,28.24,0.773
+Primary Sjogrens syndrome,5,7.134,0.848
+Age,6,13.86,0.992
+HIV infection,5,12.998,0.998
+age,187,234.836,1.0

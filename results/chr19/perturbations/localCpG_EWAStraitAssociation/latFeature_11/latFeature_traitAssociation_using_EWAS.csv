@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,91,22.675,0.0
+sex,54,21.226,0.0
+Conjugated linoleic acid,2,0.042,0.0
+Alcohol consumption,12,7.407,0.145
+age*sex,5,3.256,0.243
+Papuan ancestry,3,2.038,0.338
+Smoking,5,4.651,0.388
+Age,5,8.933,0.925
+age,152,170.357,0.963
+HIV infection,4,12.539,0.999

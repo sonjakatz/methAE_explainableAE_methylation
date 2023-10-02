@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,8,2.048,0.001
+Inflammatory bowel disease,6,2.465,0.036
+Gene expression of Affymetrix ID: 3503164 (gene symbol: CDC16),2,0.442,0.06
+Crohn's disease,4,3.132,0.396
+Smoking,3,4.301,0.609
+HIV infection,7,7.974,0.705
+Alcohol consumption,3,5.672,0.78
+Ageing,2,3.732,0.897
+age,122,145.058,0.997
+sex,5,21.283,1.0

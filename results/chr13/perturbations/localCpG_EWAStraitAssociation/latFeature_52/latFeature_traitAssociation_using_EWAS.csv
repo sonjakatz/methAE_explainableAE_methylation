@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,20,9.174,0.001
+Papuan ancestry,10,4.34,0.007
+Crohn's disease,12,6.516,0.024
+age*sex,8,4.283,0.064
+sex,51,43.567,0.1
+Sex,42,35.613,0.221
+Alcohol consumption,8,11.346,0.781
+age,281,301.847,0.955
+HIV infection,10,16.788,0.983
+Age,9,17.75,0.983

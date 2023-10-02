@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,23,7.54,0.0
+HIV infection,19,14.003,0.096
+Inflammatory bowel disease,6,4.132,0.214
+Ageing,7,6.269,0.43
+Smoking,8,7.762,0.457
+Alcohol consumption,10,9.643,0.473
+Age,14,14.688,0.61
+age,243,252.46,0.799
+Sex,19,30.55,0.962
+sex,26,36.554,0.991

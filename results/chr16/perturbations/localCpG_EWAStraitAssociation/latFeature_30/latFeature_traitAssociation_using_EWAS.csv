@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,33,20.574,0.029
+Papuan ancestry,4,2.02,0.142
+Crohn's disease,5,3.649,0.309
+Nitrogen dioxide exposure,4,2.914,0.343
+Primary Sjogrens syndrome,7,5.847,0.368
+Age,10,9.343,0.462
+Rheumatoid arthritis,4,4.239,0.628
+sex,14,19.946,0.954
+HIV infection,5,11.231,0.991
+age,134,179.648,1.0

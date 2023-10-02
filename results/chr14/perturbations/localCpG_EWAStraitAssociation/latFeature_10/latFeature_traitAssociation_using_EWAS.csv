@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,5,1.302,0.006
+Ulcerative colitis,4,0.819,0.01
+GZMK protein levels (SeqId = 9545-156),3,0.552,0.017
+Rheumatoid arthritis,4,2.649,0.275
+age*sex,2,1.045,0.278
+HIV infection,4,4.735,0.705
+Sex,6,8.458,0.73
+age,83,88.731,0.797
+Primary Sjogrens syndrome,2,4.431,0.942
+sex,5,10.045,0.982

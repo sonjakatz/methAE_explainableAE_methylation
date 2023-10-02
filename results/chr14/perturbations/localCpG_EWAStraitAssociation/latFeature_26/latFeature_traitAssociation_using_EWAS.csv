@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Schizophrenia,4,1.579,0.145
+Primary Sjogrens syndrome,13,9.55,0.152
+Rheumatoid arthritis,8,5.534,0.175
+Alcohol consumption,6,4.082,0.281
+Nitrogen dioxide exposure,4,2.867,0.309
+HIV infection,11,10.4,0.478
+sex,22,21.493,0.494
+Smoking,4,5.752,0.597
+age,164,192.466,0.997
+Sex,5,17.861,0.997

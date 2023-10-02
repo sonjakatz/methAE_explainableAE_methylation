@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3678147 (gene symbol: NMRAL1),1,0.037,0.035
+HIV infection,10,5.874,0.049
+Ageing,3,1.706,0.244
+Age,6,4.687,0.327
+Rheumatoid arthritis,3,2.192,0.373
+Primary Sjogrens syndrome,3,3.147,0.619
+Sex,8,10.483,0.722
+sex,9,10.346,0.723
+age,87,92.062,0.789
+Crohn's disease,1,1.844,0.809

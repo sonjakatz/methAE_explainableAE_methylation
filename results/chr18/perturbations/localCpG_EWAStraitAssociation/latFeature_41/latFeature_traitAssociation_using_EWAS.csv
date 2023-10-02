@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,4,0.193,0.0
+Inflammatory bowel disease,4,0.746,0.002
+Total cholesterol in HDL2,1,0.049,0.049
+Aggressive behaviour,1,0.056,0.056
+Crohn's disease,3,1.438,0.18
+Sex,10,8.813,0.4
+Papuan ancestry,1,0.629,0.481
+age,53,52.998,0.528
+sex,10,10.47,0.638
+CRISP2 protein levels (SeqId = 9282-12),1,1.071,0.677

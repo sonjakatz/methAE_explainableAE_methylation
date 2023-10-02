@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,11,5.172,0.005
+FIG4 protein levels (SeqId = 6948-82),2,0.313,0.03
+Maternal smoking in pregnancy,2,0.477,0.052
+Schizophrenia,4,1.284,0.126
+ASMTL protein levels (SeqId = 10089-7),1,0.155,0.155
+MB protein levels (SeqId = 3042-7),1,0.155,0.155
+Sex,14,10.973,0.23
+sex,11,12.701,0.776
+Inflammatory bowel disease,2,4.014,0.937
+age,87,98.346,0.955

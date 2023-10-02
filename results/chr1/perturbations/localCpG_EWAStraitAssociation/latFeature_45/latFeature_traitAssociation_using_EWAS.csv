@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,31,6.801,0.0
+Ulcerative colitis,23,6.667,0.0
+Gene expression of Affymetrix ID: 2414958 (gene symbol: TACSTD2),13,0.646,0.0
+Crohn's disease,20,10.86,0.011
+Inflammatory bowel disease,12,6.12,0.028
+age*sex,13,10.53,0.247
+Smoking,14,19.95,0.728
+Sex,50,71.917,0.983
+age,424,466.45,0.995
+sex,47,69.023,1.0

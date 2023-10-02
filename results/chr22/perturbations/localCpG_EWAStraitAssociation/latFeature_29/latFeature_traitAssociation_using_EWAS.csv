@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Rheumatoid arthritis,3,0.895,0.059
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),2,0.71,0.151
+Crohn's disease,3,1.644,0.217
+Ulcerative colitis,2,1.132,0.318
+HIV infection,5,5.936,0.713
+sex,16,18.398,0.796
+Alcohol consumption,3,5.665,0.805
+Sex,10,15.605,0.9
+Age,2,5.947,0.977
+age,83,107.661,1.0

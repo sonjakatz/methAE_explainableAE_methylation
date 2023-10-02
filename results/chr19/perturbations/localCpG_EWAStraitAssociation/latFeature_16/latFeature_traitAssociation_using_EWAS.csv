@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,42,9.272,0.0
+M32388_dodecanedioate,10,0.69,0.0
+Crohn's disease,16,7.982,0.009
+age,442,404.195,0.01
+Body mass index,8,3.112,0.095
+Inflammatory bowel disease,8,5.275,0.158
+Sex,64,54.098,0.181
+Age,21,21.332,0.553
+sex,46,50.746,0.809
+HIV infection,15,29.706,1.0

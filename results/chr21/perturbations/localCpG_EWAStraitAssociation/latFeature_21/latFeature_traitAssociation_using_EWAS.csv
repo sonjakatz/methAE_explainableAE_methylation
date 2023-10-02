@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,5,1.607,0.013
+HIV infection,6,3.05,0.065
+M32388_dodecanedioate,2,0.154,0.077
+Gene expression of Affymetrix ID: 3934245 (gene symbol: CSTB),1,0.094,0.094
+Leisure time physical activity,1,0.097,0.097
+LYZ protein levels (SeqId = 4920-10),1,0.107,0.107
+Primary Sjogrens syndrome,2,1.663,0.492
+age,52,56.313,0.811
+Sex,1,6.233,0.989
+sex,1,7.302,1.0

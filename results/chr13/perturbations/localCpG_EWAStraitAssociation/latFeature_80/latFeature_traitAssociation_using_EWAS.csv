@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,24,10.724,0.0
+Inflammatory bowel disease,10,3.217,0.002
+Crohn's disease,8,4.316,0.062
+Schizophrenia,5,1.868,0.071
+Ulcerative colitis,5,2.492,0.094
+Rheumatoid arthritis,5,2.968,0.183
+Papuan ancestry,4,2.769,0.296
+Sex,25,23.07,0.407
+sex,28,28.095,0.54
+age,145,193.434,1.0

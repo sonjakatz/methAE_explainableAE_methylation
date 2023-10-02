@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3962587 (gene symbol: ARFGAP3),2,0.089,0.001
+birthweight,3,0.153,0.051
+GZMK protein levels (SeqId = 9545-156),2,1.102,0.294
+Inflammatory bowel disease,2,1.185,0.337
+Primary Sjogrens syndrome,4,3.064,0.37
+Crohn's disease,2,1.457,0.425
+HIV infection,3,4.869,0.864
+age,84,91.481,0.886
+Sex,7,13.157,0.949
+sex,8,15.48,0.998

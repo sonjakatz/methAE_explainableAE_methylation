@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Inflammatory bowel disease,4,1.022,0.015
+Liver fat,2,0.255,0.068
+Free cholesterol to total lipids ratio in small HDL,1,0.073,0.073
+Phospholipids to total lipids ratio in very small VLDL,1,0.073,0.073
+Crohn's disease,4,1.942,0.125
+Sex,11,12.292,0.639
+sex,13,14.671,0.765
+CRISP2 protein levels (SeqId = 9282-12),1,1.507,0.802
+age,67,74.187,0.901
+HIV infection,1,4.934,0.997

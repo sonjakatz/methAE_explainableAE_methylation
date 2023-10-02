@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Liver fat,4,0.237,0.0
+Aggressive behaviour,1,0.074,0.074
+sex,16,13.804,0.277
+Inflammatory bowel disease,2,1.059,0.288
+Crohn's disease,2,1.898,0.561
+age,68,70.903,0.695
+HIV infection,4,4.667,0.72
+Primary Sjogrens syndrome,2,2.472,0.736
+Sex,7,11.636,0.884
+Age,1,3.458,0.942

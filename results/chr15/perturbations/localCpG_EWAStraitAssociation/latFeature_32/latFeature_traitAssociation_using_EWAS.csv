@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,360,285.189,0.0
+Age,49,13.16,0.0
+Ageing,18,6.349,0.0
+Alcohol consumption per day,8,2.714,0.012
+Smoking,14,7.898,0.154
+Primary Sjogrens syndrome,15,13.363,0.351
+HIV infection,18,18.466,0.568
+Alcohol consumption,9,12.096,0.76
+Sex,16,29.221,0.975
+sex,22,36.526,1.0

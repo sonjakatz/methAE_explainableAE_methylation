@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),6,1.225,0.0
+Primary Sjogrens syndrome,11,5.133,0.013
+age,171,155.349,0.036
+Smoking,13,5.194,0.123
+GZMK protein levels (SeqId = 9545-156),4,1.902,0.125
+Sex,25,22.164,0.315
+HIV infection,8,8.233,0.6
+Alcohol consumption,7,7.83,0.614
+Age,8,8.447,0.619
+sex,22,26.521,0.887

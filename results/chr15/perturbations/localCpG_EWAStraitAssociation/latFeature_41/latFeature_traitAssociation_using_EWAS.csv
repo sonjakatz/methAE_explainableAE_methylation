@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Alcohol consumption per day,5,1.451,0.023
+Alcohol consumption,14,6.696,0.045
+Nitrogen dioxide exposure,4,1.888,0.112
+Smoking,8,4.14,0.158
+Age,11,7.258,0.162
+age,163,156.377,0.25
+Sex,18,15.843,0.36
+Rheumatoid arthritis,4,4.751,0.7
+sex,18,19.843,0.739
+Primary Sjogrens syndrome,6,7.185,0.755

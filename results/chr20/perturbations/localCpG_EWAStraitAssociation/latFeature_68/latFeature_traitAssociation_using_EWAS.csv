@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ulcerative colitis,10,2.556,0.0
+Papuan ancestry,8,2.194,0.0
+Inflammatory bowel disease,7,3.694,0.071
+Crohn's disease,10,6.428,0.12
+age*sex,5,3.482,0.271
+Alcohol consumption,7,7.0,0.519
+Age,8,9.94,0.737
+Sex,18,26.327,0.898
+age,135,148.22,0.93
+sex,17,23.828,0.971

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Alcohol consumption per day,4,2.336,0.21
+Primary Sjogrens syndrome,9,6.568,0.22
+Alcohol consumption,9,7.628,0.384
+age*sex,3,2.478,0.445
+sex,21,21.358,0.552
+Age,9,9.817,0.625
+age,188,191.77,0.655
+HIV infection,11,11.92,0.656
+Rheumatoid arthritis,4,4.531,0.659
+Sex,18,21.987,0.747

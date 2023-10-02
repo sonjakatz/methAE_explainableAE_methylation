@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,12,4.384,0.0
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),5,0.845,0.001
+M00054_tryptophan,5,0.915,0.006
+Inflammatory bowel disease,5,1.648,0.018
+Alcohol consumption,11,6.859,0.172
+Crohn's disease,4,2.189,0.175
+age,132,131.503,0.494
+Sex,19,18.847,0.515
+HIV infection,6,7.16,0.735
+sex,20,22.361,0.784

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,29,11.962,0.0
+Ageing,18,5.572,0.0
+GZMK protein levels (SeqId = 9545-156),8,1.624,0.0
+IL2RB protein levels (SeqId = 9343-16),7,1.329,0.0
+Inflammatory bowel disease,9,3.629,0.008
+Crohn's disease,8,4.822,0.115
+Age,13,12.725,0.487
+age,211,216.869,0.721
+Sex,10,26.097,0.997
+sex,16,31.681,1.0

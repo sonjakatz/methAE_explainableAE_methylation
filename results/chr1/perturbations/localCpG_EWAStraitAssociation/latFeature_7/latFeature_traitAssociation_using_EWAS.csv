@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,252,138.767,0.0
+sex,188,133.679,0.0
+Age,102,59.793,0.0
+Ulcerative colitis,26,13.107,0.0
+Smoking,89,38.29,0.002
+Crohn's disease,32,21.241,0.019
+Ageing,27,19.839,0.059
+age,888,909.383,0.841
+Alcohol consumption,40,52.276,0.888
+Primary Sjogrens syndrome,24,38.732,0.996

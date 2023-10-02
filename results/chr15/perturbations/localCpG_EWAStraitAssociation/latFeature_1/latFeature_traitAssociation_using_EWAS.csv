@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Ageing,8,4.171,0.051
+age*sex,4,1.896,0.095
+gestational age,4,1.871,0.122
+Rheumatoid arthritis,5,5.79,0.706
+Age,7,9.005,0.728
+Alcohol consumption,5,7.547,0.761
+sex,19,24.232,0.901
+age,176,189.675,0.912
+Primary Sjogrens syndrome,5,9.038,0.95
+HIV infection,7,12.179,0.967

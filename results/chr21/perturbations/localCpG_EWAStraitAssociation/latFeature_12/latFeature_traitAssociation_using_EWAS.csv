@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Maternal smoking in pregnancy,2,0.266,0.02
+F10 protein levels (SeqId = 3077-66),1,0.067,0.067
+Gene expression of Affymetrix ID: 3934245 (gene symbol: CSTB),1,0.094,0.094
+Papuan ancestry,3,1.468,0.173
+Inflammatory bowel disease,3,2.281,0.404
+Sex,6,5.87,0.521
+age,51,52.507,0.633
+Gene expression of Affymetrix ID: 3924783 (gene symbol: PRMT2),1,1.209,0.725
+sex,5,6.785,0.854
+HIV infection,1,2.797,0.947

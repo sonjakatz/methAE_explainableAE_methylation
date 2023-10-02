@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,167,138.962,0.001
+GZMK protein levels (SeqId = 9545-156),6,1.667,0.006
+Ageing,6,2.122,0.014
+Ulcerative colitis,4,1.478,0.054
+Alcohol consumption,14,7.112,0.067
+Sex,27,20.179,0.115
+sex,28,23.57,0.168
+Smoking,10,4.784,0.182
+Age,6,7.678,0.761
+HIV infection,5,7.498,0.9

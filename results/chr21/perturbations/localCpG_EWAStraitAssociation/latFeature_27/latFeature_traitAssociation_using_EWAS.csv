@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Maternal smoking in pregnancy,3,0.338,0.0
+Papuan ancestry,5,1.956,0.039
+age*sex,3,1.229,0.107
+M32388_dodecanedioate,2,0.216,0.108
+Aggressive behaviour,2,0.336,0.113
+age,73,67.287,0.165
+Alcohol consumption,2,0.951,0.328
+Sex,8,7.48,0.465
+Inflammatory bowel disease,2,2.814,0.771
+sex,6,8.69,0.915

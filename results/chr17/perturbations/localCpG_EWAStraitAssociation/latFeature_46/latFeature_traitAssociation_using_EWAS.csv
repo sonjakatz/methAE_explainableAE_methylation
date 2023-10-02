@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Pubertal timing,12,2.208,0.007
+Nitrogen dioxide exposure,13,6.222,0.009
+HIV infection,29,25.508,0.254
+Primary Sjogrens syndrome,17,14.802,0.29
+Rheumatoid arthritis,15,14.11,0.441
+Alcohol consumption,17,17.329,0.522
+age,428,438.854,0.761
+Sex,31,47.064,0.964
+Age,13,22.973,0.984
+sex,27,48.456,1.0

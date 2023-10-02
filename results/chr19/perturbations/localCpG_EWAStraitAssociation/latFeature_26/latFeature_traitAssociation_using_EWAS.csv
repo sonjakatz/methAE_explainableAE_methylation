@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+GZMK protein levels (SeqId = 9545-156),3,0.465,0.006
+schizophrenia,2,0.192,0.092
+Smoking,6,2.224,0.127
+Rheumatoid arthritis,4,2.055,0.155
+Ageing,3,1.79,0.268
+Sex,14,11.132,0.279
+Schizophrenia,2,0.871,0.342
+age,82,83.083,0.596
+sex,8,10.608,0.863
+HIV infection,4,6.217,0.905

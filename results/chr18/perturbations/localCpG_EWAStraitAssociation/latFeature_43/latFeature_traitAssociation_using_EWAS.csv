@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,112,85.009,0.0
+Age,17,4.281,0.0
+Ageing,9,2.591,0.0
+IL2RB protein levels (SeqId = 9343-16),6,0.683,0.0
+Smoking,9,1.737,0.006
+age*sex,4,0.736,0.007
+HIV infection,10,5.521,0.032
+Crohn's disease,4,2.213,0.179
+Alcohol consumption,4,3.33,0.419
+sex,5,16.734,1.0

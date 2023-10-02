@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+age,277,224.298,0.0
+Ageing,16,5.739,0.0
+IL2RB protein levels (SeqId = 9343-16),14,1.415,0.0
+Ulcerative colitis,8,2.903,0.007
+GZMK protein levels (SeqId = 9545-156),6,1.777,0.012
+Age,18,13.295,0.137
+Papuan ancestry,5,3.117,0.194
+HIV infection,13,12.51,0.479
+Sex,13,26.711,0.991
+sex,16,32.681,1.0

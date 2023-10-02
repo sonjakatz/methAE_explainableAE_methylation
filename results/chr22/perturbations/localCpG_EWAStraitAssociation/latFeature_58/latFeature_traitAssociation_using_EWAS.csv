@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,15,4.43,0.0
+Inflammatory bowel disease,5,1.646,0.021
+Crohn's disease,5,2.106,0.05
+Maternal body mass index,2,0.248,0.083
+HIV infection,9,6.984,0.254
+Age,9,7.071,0.266
+age,136,131.619,0.314
+Alcohol consumption,5,6.734,0.684
+Sex,10,19.055,0.976
+sex,15,22.539,0.978

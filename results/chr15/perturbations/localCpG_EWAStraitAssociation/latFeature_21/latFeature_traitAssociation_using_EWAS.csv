@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3619479 (gene symbol: C15orf57),3,0.137,0.0
+Papuan ancestry,5,1.391,0.007
+age*sex,3,1.854,0.286
+sex,26,23.595,0.319
+Ageing,5,4.238,0.418
+Rheumatoid arthritis,5,5.425,0.641
+Primary Sjogrens syndrome,7,8.798,0.796
+Sex,14,18.931,0.801
+age,171,186.284,0.935
+HIV infection,5,12.162,0.992

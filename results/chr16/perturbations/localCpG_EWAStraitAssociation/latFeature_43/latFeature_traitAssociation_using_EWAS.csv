@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+HIV infection,33,12.046,0.0
+Rheumatoid arthritis,17,4.609,0.0
+Sex,35,21.862,0.027
+M32388_dodecanedioate,4,0.776,0.029
+Schizophrenia,4,1.789,0.198
+Alcohol consumption,8,7.365,0.443
+Crohn's disease,4,3.743,0.512
+sex,18,21.496,0.828
+Age,4,9.878,0.98
+age,162,192.999,0.999

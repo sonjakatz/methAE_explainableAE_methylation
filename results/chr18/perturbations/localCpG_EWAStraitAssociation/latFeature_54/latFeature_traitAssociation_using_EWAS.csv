@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,15,4.546,0.0
+Age,18,6.583,0.004
+M32388_dodecanedioate,4,1.072,0.076
+Inflammatory bowel disease,4,1.902,0.11
+Smoking,6,2.717,0.122
+age,139,131.208,0.182
+Alcohol consumption,7,5.104,0.318
+Crohn's disease,4,3.517,0.444
+Sex,12,21.784,0.977
+sex,16,25.616,0.996

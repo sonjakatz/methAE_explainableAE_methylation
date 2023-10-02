@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Alcohol consumption per day,6,2.894,0.08
+Crohn's disease,8,4.579,0.113
+HIV infection,19,14.583,0.145
+Rheumatoid arthritis,5,5.617,0.67
+Alcohol consumption,6,9.165,0.781
+Age,9,12.039,0.819
+Sex,21,27.083,0.828
+sex,22,26.358,0.867
+Primary Sjogrens syndrome,5,7.936,0.903
+age,200,235.085,0.999

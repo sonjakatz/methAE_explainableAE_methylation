@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),7,0.885,0.0
+sex,34,22.936,0.003
+Autoantibody production in systemic lupus erythematosus,2,0.321,0.031
+Inflammatory bowel disease,4,1.694,0.085
+Ulcerative colitis,3,1.448,0.182
+Crohn's disease,3,2.188,0.356
+Sex,20,19.652,0.484
+Alcohol consumption,3,6.805,0.876
+age,123,134.79,0.934
+Age,3,7.318,0.978

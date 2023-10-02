@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Papuan ancestry,6,2.572,0.024
+Maternal smoking in pregnancy,2,0.417,0.047
+Sex,16,10.132,0.062
+Gene expression of Affymetrix ID: 3935300 (gene symbol: MCM3AP),1,0.151,0.151
+ITIH5 protein levels (SeqId = 8233-2),1,0.152,0.152
+TMEM106B protein levels (SeqId = 8687-26),1,0.153,0.153
+age,91,91.085,0.51
+sex,11,11.69,0.661
+age*sex,1,1.664,0.838
+HIV infection,2,4.839,0.963

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,93,20.709,0.0
+sex,74,24.39,0.0
+Ulcerative colitis,10,1.97,0.0
+CRISP2 protein levels (SeqId = 9282-12),8,0.53,0.0
+Gene expression of Affymetrix ID: 3558145 (gene symbol: CIDEB),6,0.422,0.0
+Crohn's disease,8,2.481,0.006
+Papuan ancestry,7,3.139,0.029
+Inflammatory bowel disease,3,1.481,0.168
+Age,3,9.897,0.997
+age,188,216.999,0.999

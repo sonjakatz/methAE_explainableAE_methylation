@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Sex,38,15.122,0.0
+CRISP2 protein levels (SeqId = 9282-12),11,1.806,0.0
+COL10A1 protein levels (SeqId = 15653-9),2,0.179,0.011
+sex,25,17.81,0.025
+Frontotemporal dementia,2,0.351,0.039
+Papuan ancestry,3,0.972,0.074
+age*sex,2,0.804,0.18
+Schizophrenia,2,1.183,0.414
+Crohn's disease,3,2.398,0.435
+age,86,90.121,0.752

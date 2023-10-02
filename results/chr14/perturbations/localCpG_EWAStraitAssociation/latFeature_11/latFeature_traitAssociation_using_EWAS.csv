@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Alcohol consumption,15,6.226,0.012
+Nitrogen dioxide exposure,10,4.514,0.014
+Smoking,21,8.792,0.046
+Papuan ancestry,8,4.183,0.055
+Primary Sjogrens syndrome,21,15.103,0.072
+age,314,304.6,0.239
+sex,36,34.017,0.373
+Age,15,14.088,0.44
+Sex,26,28.76,0.677
+HIV infection,10,16.533,0.983

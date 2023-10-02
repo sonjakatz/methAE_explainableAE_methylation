@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3966057 (gene symbol: CHKB-CPT1B),9,1.203,0.0
+Sex,33,24.034,0.072
+Ulcerative colitis,4,1.777,0.091
+age,176,164.079,0.109
+Inflammatory bowel disease,4,2.05,0.145
+sex,32,27.734,0.176
+Crohn's disease,4,2.61,0.252
+Alcohol consumption,7,8.637,0.667
+HIV infection,7,8.803,0.796
+Age,6,9.027,0.88

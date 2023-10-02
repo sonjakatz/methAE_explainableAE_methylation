@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Primary Sjogrens syndrome,25,7.374,0.0
+M00054_tryptophan,8,1.0,0.0
+age,348,317.009,0.018
+Rheumatoid arthritis,12,7.928,0.103
+Crohn's disease,7,6.268,0.437
+Alcohol consumption,11,13.514,0.688
+Age,13,16.561,0.829
+HIV infection,19,23.099,0.868
+sex,28,39.646,0.989
+Sex,23,42.054,0.99

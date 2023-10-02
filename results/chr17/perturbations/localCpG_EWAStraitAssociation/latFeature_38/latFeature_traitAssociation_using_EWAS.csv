@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Air pollution exposure,2,0.125,0.003
+Papuan ancestry,3,1.106,0.104
+Ulcerative colitis,2,0.725,0.162
+Crohn's disease,3,1.621,0.232
+Rheumatoid arthritis,3,2.805,0.527
+Primary Sjogrens syndrome,2,2.789,0.787
+Sex,6,9.34,0.822
+age,75,85.322,0.934
+sex,6,9.548,0.955
+HIV infection,2,4.995,0.975

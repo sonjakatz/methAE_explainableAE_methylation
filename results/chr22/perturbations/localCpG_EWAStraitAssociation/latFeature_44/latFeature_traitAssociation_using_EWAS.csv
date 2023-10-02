@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Gene expression of Affymetrix ID: 3948543 (gene symbol: FAM118A),7,0.74,0.0
+Inflammatory bowel disease,5,1.479,0.014
+Age,8,6.248,0.301
+Crohn's disease,3,1.926,0.307
+Papuan ancestry,2,1.265,0.359
+age*sex,2,1.942,0.583
+sex,16,20.004,0.891
+age,107,116.459,0.904
+HIV infection,2,6.264,0.988
+Sex,5,16.933,1.0

@@ -1,0 +1,11 @@
+,associatedCpGs,meanRandomCpGs,pval_bootstrap
+Maternal smoking in pregnancy,3,0.294,0.0
+Ulcerative colitis,4,1.254,0.032
+age*sex,3,1.133,0.102
+Papuan ancestry,4,1.925,0.111
+Crohn's disease,2,1.623,0.495
+Inflammatory bowel disease,3,2.761,0.541
+Sex,6,7.229,0.709
+age,60,65.233,0.851
+sex,6,8.525,0.893
+HIV infection,2,3.522,0.908
